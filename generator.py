@@ -67,10 +67,10 @@ for i in range(num_node):
   curr_time = 0
   for j in range(num_pkts_per_node):
     curr_time = next_time(curr_time)
-    packet_table.append([i+j*num_node, i, des_node(i), curr_time])
+    packet_table.append([i+j*num_node, i, des_node(i), pkt_size, curr_time])
 
 # finish
 with open(outfile, 'w') as of:
   of.write("{}\n".format(tot_packets))
   for row in packet_table:
-    of.write("{} {} {} {}\n".format(row[0], row[1], row[2], row[3]))
+    of.write("{} {} {} {} {}\n".format(row[0], row[1], row[2], row[3], row[4]))
