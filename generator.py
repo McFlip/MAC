@@ -7,15 +7,24 @@ import os
 from random import *
 
 # Function definitions
+def next_time(curr_time):
+  curr_gap = randint(0, 2*gap)
+  return curr_time + Tx_time + curr_gap
+
+def des_node(src_node):
+  destination = randint(0, num_node-1)
+  while destination == src_node:
+    destination = randint(0, num_node-1)
+  return destination
 
 
 # set up arguments
 parser = argparse.ArgumentParser(prog='generator', description='Generate simulated traffic and outputs to file.')
-parser.add_argument("-n","--num_node", help="number of nodes that Tx & Rx", default="1")
+parser.add_argument("-n","--num_node", help="number of nodes that Tx & Rx", default="2")
 parser.add_argument("-P","--pkt_size", help="packet size", default="1")
 parser.add_argument("-l","--offered_load", help="offered load 0.01&to&10", default="1")
 parser.add_argument("-p","--num_pkts_per_node", help="number of packets per node", default="1")
-parser.add_argument("-s","--seed", help="seed for random function", default="1")
+parser.add_argument("-s","--seed", help="seed for random function", default=None)
 parser.add_argument("-o","--outfile", help="traffic file", default=os.path.join(os.getcwd(), "traffic"))
 args = parser.parse_args()
 
@@ -35,19 +44,33 @@ if not os.access(outDir, os.W_OK):
 # MAIN FUNCTION
 
 # Vars
+global num_node
 num_node = int(args.num_node)
 pkt_size = int(args.pkt_size)
 offered_load = int(args.offered_load)
 num_pkts_per_node = int(args.num_pkts_per_node)
-seed = int(args.seed)
-global tot_packets
-tot_packets = 0
+if args.seed == None:
+  mySeed = args.seed
+else:
+  mySeed = int(args.seed)
+tot_packets = num_node * num_pkts_per_node
 global gap
 gap = (pkt_size * num_node / offered_load) - pkt_size
+global Tx_time
+Tx_time = pkt_size
+global packet_table
+packet_table = []
 
 # do stuff
-
+seed(mySeed)
+for i in range(num_node):
+  curr_time = 0
+  for j in range(num_pkts_per_node):
+    curr_time = next_time(curr_time)
+    packet_table.append([i+j*num_node, i, des_node(i), curr_time])
 
 # finish
 with open(outfile, 'w') as of:
   of.write("{}\n".format(tot_packets))
+  for row in packet_table:
+    of.write("{} {} {} {}\n".format(row[0], row[1], row[2], row[3]))
