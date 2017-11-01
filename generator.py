@@ -2,6 +2,7 @@
 '''
 Grady Denton & Shane Bennet for proj2 in cnt5505 data comm
 '''
+from __future__ import division
 import argparse
 import os
 from random import *
@@ -47,7 +48,7 @@ if not os.access(outDir, os.W_OK):
 global num_node
 num_node = int(args.num_node)
 pkt_size = int(args.pkt_size)
-offered_load = int(args.offered_load)
+offered_load = float(args.offered_load)
 num_pkts_per_node = int(args.num_pkts_per_node)
 if args.seed == None:
   mySeed = args.seed
@@ -64,12 +65,14 @@ packet_table = []
 # do stuff
 seed(mySeed)
 for i in range(num_node):
-  curr_time = 0
-  for j in range(num_pkts_per_node):
+  curr_time = randint(0, 2*gap)
+  packet_table.append([i, i, des_node(i), pkt_size, curr_time])
+  for j in range(1, num_pkts_per_node):
     curr_time = next_time(curr_time)
     packet_table.append([i+j*num_node, i, des_node(i), pkt_size, curr_time])
 
 # finish
+packet_table.sort(key=lambda x: int(x[4]))
 with open(outfile, 'w') as of:
   of.write("{}\n".format(tot_packets))
   for row in packet_table:
