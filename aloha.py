@@ -5,7 +5,6 @@ Grady Denton & Shane Bennet for proj2 in cnt5505 data comm
 from __future__ import division
 import argparse
 import os
-from random import *
 
 # Function definitions
 
@@ -40,13 +39,14 @@ if not os.access(outDir, os.W_OK):
 # MAIN FUNCTION
 
 # Vars
-
-global packet_table
-packet_table = []
+packet_queu = []
+howManySending = 0
 
 # do stuff
-seed(mySeed)
-
+with open(trafficfile, r) as tf:
+  for line in tf:
+    packet = line.split()
+    print "Time: {} Packet: {}: {} {} {} {} start sending".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4])
 
 # finish
 packet_table.sort(key=lambda x: int(x[4]))
