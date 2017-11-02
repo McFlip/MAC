@@ -43,14 +43,26 @@ packet_queu = []
 howManySending = 0
 
 # do stuff
-with open(trafficfile, r) as tf:
+with open(trafficfile, 'r') as tf:
   for line in tf:
     packet = line.split()
-    print "Time: {} Packet: {}: {} {} {} {} start sending".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4])
-
-# finish
-packet_table.sort(key=lambda x: int(x[4]))
-with open(outfile, 'w') as of:
-  of.write("{}\n".format(tot_packets))
-  for row in packet_table:
-    of.write("{} {} {} {} {}\n".format(row[0], row[1], row[2], row[3], row[4]))
+    if len(packet) > 1:
+      packet.append("")
+      if packet_queu:
+        time = packet[4]
+        for p in packet_queu:
+          if p[4] + p[3] < time:
+            if p[5] == ": collision":
+              finish = "finish sending: failed"
+            else:
+              finish = "finish sending: successfully transmitted"
+            print "Time: {} Packet: {}: {} {} {} {} {}".format(packet[4] + packet[3], packet[0], packet[1], packet[2], packet[3], packet[4], finish)
+            packet_queu.remove(p)
+          else:
+            p[5] = ": collision"
+            packet[5] = ": collision"
+      print "Time: {} Packet: {}: {} {} {} {} start sending{}".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4], packet[5])
+      packet_queu.append(packet)
+  if packet_queu:
+    print "STUFF LEFT IN QUE"
+    print packet_queu

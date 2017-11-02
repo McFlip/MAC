@@ -56,7 +56,7 @@ else:
   mySeed = int(args.seed)
 tot_packets = num_node * num_pkts_per_node
 global gap
-gap = (pkt_size * num_node / offered_load) - pkt_size
+gap = int((pkt_size * num_node / offered_load) - pkt_size)
 global Tx_time
 Tx_time = pkt_size
 global packet_table
