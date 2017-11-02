@@ -40,29 +40,40 @@ if not os.access(outDir, os.W_OK):
 
 # Vars
 packet_queu = []
-howManySending = 0
 
 # do stuff
 with open(trafficfile, 'r') as tf:
+  tf.readline()
+
   for line in tf:
     packet = line.split()
-    if len(packet) > 1:
-      packet.append("")
-      if packet_queu:
-        time = int(packet[4])
-        for p in packet_queu:
-          if int(p[4]) + int(p[3]) < time:
-            if p[5] == ": collision":
-              finish = "finish sending: failed"
-            else:
-              finish = "finish sending: successfully transmitted"
-            print "Time: {} Packet: {}: {} {} {} {} {}".format(int(p[4]) + int(p[3]), p[0], p[1], p[2], p[3], p[4], finish)
-            packet_queu.remove(p)
-          else:
-            p[5] = ": collision"
-            packet[5] = ": collision"
-      print "Time: {} Packet: {}: {} {} {} {} start sending{}".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4], packet[5])
-      packet_queu.append(packet)
-  if packet_queu:
-    print "STUFF LEFT IN QUE"
-    print packet_queu
+    time = int(packet[4])
+    packet.append("")
+
+    #print finished packets
+    while(packet_queu):
+      if packet_queu[0][5] == ": collision":
+        finish = "finish sending: failed"
+      else:
+        finish = "finish sending: successfully transmitted"
+      if int(packet_queu[0][4]) + int(packet_queu[0][3]) < time:
+        print "Time: {} Packet: {}: {} {} {} {} {}".format(int(packet_queu[0][4]) + int(packet_queu[0][3]), packet_queu[0][0], packet_queu[0][1], packet_queu[0][2], packet_queu[0][3], packet_queu[0][4], finish)
+        packet_queu.pop(0)
+      else:
+        break
+
+    #check for collisions
+    if packet_queu:
+      packet[5] = ": collision"
+      if len(packet_queu) == 1:
+        packet_queu[0][5] = ": collision"
+
+    #print packet sending message
+    print "Time: {} Packet: {}: {} {} {} {} start sending{}".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4], packet[5])
+
+    packet_queu.append(packet)
+
+
+  #make sure you check for failed
+  #while packet_queu:
+    #print packet_queu
