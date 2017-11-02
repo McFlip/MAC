@@ -1,0 +1,2000 @@
+Time: 41 Packet: 5: 5 3 100 41 start sending
+Time: 119 Packet: 8: 8 0 100 119 start sending: collision
+Time: 141 Packet: 5: 5 3 100 41 finish sending: failed
+Time: 241 Packet: 0: 0 8 100 241 start sending
+Time: 219 Packet: 8: 8 0 100 119 finish sending: failed
+Time: 391 Packet: 2: 2 5 100 391 start sending
+Time: 341 Packet: 0: 0 8 100 241 finish sending: successfully transmitted
+Time: 392 Packet: 15: 5 2 100 392 start sending
+Time: 491 Packet: 2: 2 5 100 391 finish sending: successfully transmitted
+Time: 980 Packet: 4: 4 9 100 980 start sending
+Time: 492 Packet: 15: 5 2 100 392 finish sending: successfully transmitted
+Time: 1008 Packet: 6: 6 4 100 1008 start sending
+Time: 1076 Packet: 3: 3 8 100 1076 start sending: collision
+Time: 1080 Packet: 4: 4 9 100 980 finish sending: failed
+Time: 1176 Packet: 3: 3 8 100 1076 finish sending: failed
+Time: 1187 Packet: 18: 8 3 100 1187 start sending
+Time: 1108 Packet: 6: 6 4 100 1008 finish sending: failed
+Time: 1216 Packet: 9: 9 3 100 1216 start sending
+Time: 1237 Packet: 1: 1 4 100 1237 start sending: collision
+Time: 1287 Packet: 18: 8 3 100 1187 finish sending: failed
+Time: 1320 Packet: 28: 8 0 100 1320 start sending: collision
+Time: 1316 Packet: 9: 9 3 100 1216 finish sending: failed
+Time: 1420 Packet: 28: 8 0 100 1320 finish sending: failed
+Time: 1534 Packet: 7: 7 6 100 1534 start sending
+Time: 1337 Packet: 1: 1 4 100 1237 finish sending: failed
+Time: 1566 Packet: 13: 3 0 100 1566 start sending
+Time: 1634 Packet: 7: 7 6 100 1534 finish sending: successfully transmitted
+Time: 1701 Packet: 17: 7 0 100 1701 start sending
+Time: 1666 Packet: 13: 3 0 100 1566 finish sending: successfully transmitted
+Time: 1716 Packet: 10: 0 2 100 1716 start sending
+Time: 1800 Packet: 38: 8 2 100 1800 start sending: collision
+Time: 1801 Packet: 17: 7 0 100 1701 finish sending: failed
+Time: 1855 Packet: 12: 2 0 100 1855 start sending: collision
+Time: 1816 Packet: 10: 0 2 100 1716 finish sending: failed
+Time: 1878 Packet: 25: 5 6 100 1878 start sending: collision
+Time: 1900 Packet: 38: 8 2 100 1800 finish sending: failed
+Time: 1949 Packet: 19: 9 3 100 1949 start sending: collision
+Time: 1955 Packet: 12: 2 0 100 1855 finish sending: failed
+Time: 2049 Packet: 19: 9 3 100 1949 finish sending: failed
+Time: 2051 Packet: 35: 5 0 100 2051 start sending
+Time: 1978 Packet: 25: 5 6 100 1878 finish sending: failed
+Time: 2431 Packet: 48: 8 5 100 2431 start sending
+Time: 2151 Packet: 35: 5 0 100 2051 finish sending: successfully transmitted
+Time: 2517 Packet: 14: 4 7 100 2517 start sending
+Time: 2531 Packet: 48: 8 5 100 2431 finish sending: successfully transmitted
+Time: 2708 Packet: 20: 0 4 100 2708 start sending
+Time: 2617 Packet: 14: 4 7 100 2517 finish sending: successfully transmitted
+Time: 2869 Packet: 16: 6 2 100 2869 start sending
+Time: 2808 Packet: 20: 0 4 100 2708 finish sending: successfully transmitted
+Time: 2933 Packet: 23: 3 8 100 2933 start sending
+Time: 2936 Packet: 27: 7 8 100 2936 start sending: collision
+Time: 2969 Packet: 16: 6 2 100 2869 finish sending: failed
+Time: 2983 Packet: 58: 8 2 100 2983 start sending: collision
+Time: 2989 Packet: 29: 9 5 100 2989 start sending: collision
+Time: 2990 Packet: 26: 6 9 100 2990 start sending: collision
+Time: 3033 Packet: 23: 3 8 100 2933 finish sending: failed
+Time: 3083 Packet: 58: 8 2 100 2983 finish sending: failed
+Time: 3090 Packet: 26: 6 9 100 2990 finish sending: failed
+Time: 3111 Packet: 11: 1 2 100 3111 start sending
+Time: 3036 Packet: 27: 7 8 100 2936 finish sending: failed
+Time: 3182 Packet: 22: 2 7 100 3182 start sending: collision
+Time: 3089 Packet: 29: 9 5 100 2989 finish sending: failed
+Time: 3282 Packet: 22: 2 7 100 3182 finish sending: failed
+Time: 3456 Packet: 45: 5 1 100 3456 start sending
+Time: 3211 Packet: 11: 1 2 100 3111 finish sending: failed
+Time: 3462 Packet: 68: 8 2 100 3462 start sending
+Time: 3514 Packet: 37: 7 9 100 3514 start sending: collision
+Time: 3556 Packet: 45: 5 1 100 3456 finish sending: failed
+Time: 3614 Packet: 37: 7 9 100 3514 finish sending: failed
+Time: 3651 Packet: 36: 6 2 100 3651 start sending
+Time: 3562 Packet: 68: 8 2 100 3462 finish sending: failed
+Time: 3908 Packet: 32: 2 5 100 3908 start sending
+Time: 3751 Packet: 36: 6 2 100 3651 finish sending: successfully transmitted
+Time: 3981 Packet: 30: 0 7 100 3981 start sending
+Time: 4008 Packet: 32: 2 5 100 3908 finish sending: successfully transmitted
+Time: 4083 Packet: 24: 4 9 100 4083 start sending
+Time: 4081 Packet: 30: 0 7 100 3981 finish sending: successfully transmitted
+Time: 4126 Packet: 55: 5 2 100 4126 start sending
+Time: 4183 Packet: 24: 4 9 100 4083 finish sending: successfully transmitted
+Time: 4250 Packet: 40: 0 8 100 4250 start sending
+Time: 4226 Packet: 55: 5 2 100 4126 finish sending: successfully transmitted
+Time: 4304 Packet: 42: 2 7 100 4304 start sending
+Time: 4315 Packet: 65: 5 0 100 4315 start sending: collision
+Time: 4350 Packet: 40: 0 8 100 4250 finish sending: failed
+Time: 4415 Packet: 65: 5 0 100 4315 finish sending: failed
+Time: 4477 Packet: 52: 2 9 100 4477 start sending
+Time: 4404 Packet: 42: 2 7 100 4304 finish sending: failed
+Time: 4499 Packet: 46: 6 5 100 4499 start sending
+Time: 4517 Packet: 21: 1 0 100 4517 start sending: collision
+Time: 4562 Packet: 78: 8 4 100 4562 start sending: collision
+Time: 4577 Packet: 52: 2 9 100 4477 finish sending: failed
+Time: 4605 Packet: 47: 7 5 100 4605 start sending: collision
+Time: 4599 Packet: 46: 6 5 100 4499 finish sending: failed
+Time: 4645 Packet: 34: 4 2 100 4645 start sending: collision
+Time: 4617 Packet: 21: 1 0 100 4517 finish sending: failed
+Time: 4663 Packet: 39: 9 3 100 4663 start sending: collision
+Time: 4662 Packet: 78: 8 4 100 4562 finish sending: failed
+Time: 4665 Packet: 75: 5 3 100 4665 start sending: collision
+Time: 4705 Packet: 47: 7 5 100 4605 finish sending: failed
+Time: 4763 Packet: 39: 9 3 100 4663 finish sending: failed
+Time: 4769 Packet: 33: 3 6 100 4769 start sending
+Time: 4745 Packet: 34: 4 2 100 4645 finish sending: failed
+Time: 4869 Packet: 33: 3 6 100 4769 finish sending: successfully transmitted
+Time: 4922 Packet: 31: 1 9 100 4922 start sending
+Time: 4765 Packet: 75: 5 3 100 4665 finish sending: failed
+Time: 5129 Packet: 50: 0 7 100 5129 start sending
+Time: 5022 Packet: 31: 1 9 100 4922 finish sending: successfully transmitted
+Time: 5232 Packet: 60: 0 4 100 5232 start sending
+Time: 5229 Packet: 50: 0 7 100 5129 finish sending: successfully transmitted
+Time: 5258 Packet: 88: 8 4 100 5258 start sending
+Time: 5332 Packet: 60: 0 4 100 5232 finish sending: successfully transmitted
+Time: 5386 Packet: 98: 8 1 100 5386 start sending
+Time: 5358 Packet: 88: 8 4 100 5258 finish sending: successfully transmitted
+Time: 5405 Packet: 41: 1 7 100 5405 start sending
+Time: 5485 Packet: 43: 3 8 100 5485 start sending: collision
+Time: 5486 Packet: 98: 8 1 100 5386 finish sending: failed
+Time: 5572 Packet: 49: 9 8 100 5572 start sending: collision
+Time: 5505 Packet: 41: 1 7 100 5405 finish sending: failed
+Time: 5672 Packet: 49: 9 8 100 5572 finish sending: failed
+Time: 5797 Packet: 53: 3 6 100 5797 start sending
+Time: 5585 Packet: 43: 3 8 100 5485 finish sending: failed
+Time: 5819 Packet: 57: 7 0 100 5819 start sending
+Time: 5897 Packet: 53: 3 6 100 5797 finish sending: successfully transmitted
+Time: 6032 Packet: 62: 2 6 100 6032 start sending
+Time: 5919 Packet: 57: 7 0 100 5819 finish sending: successfully transmitted
+Time: 6068 Packet: 63: 3 4 100 6068 start sending
+Time: 6089 Packet: 44: 4 7 100 6089 start sending: collision
+Time: 6132 Packet: 62: 2 6 100 6032 finish sending: failed
+Time: 6189 Packet: 44: 4 7 100 6089 finish sending: failed
+Time: 6225 Packet: 67: 7 9 100 6225 start sending
+Time: 6168 Packet: 63: 3 4 100 6068 finish sending: failed
+Time: 6374 Packet: 56: 6 7 100 6374 start sending
+Time: 6325 Packet: 67: 7 9 100 6225 finish sending: successfully transmitted
+Time: 6446 Packet: 85: 5 6 100 6446 start sending
+Time: 6474 Packet: 56: 6 7 100 6374 finish sending: successfully transmitted
+Time: 6585 Packet: 51: 1 8 100 6585 start sending
+Time: 6546 Packet: 85: 5 6 100 6446 finish sending: successfully transmitted
+Time: 6613 Packet: 72: 2 9 100 6613 start sending
+Time: 6631 Packet: 70: 0 2 100 6631 start sending: collision
+Time: 6638 Packet: 108: 8 7 100 6638 start sending: collision
+Time: 6685 Packet: 51: 1 8 100 6585 finish sending: failed
+Time: 6731 Packet: 70: 0 2 100 6631 finish sending: failed
+Time: 6806 Packet: 77: 7 0 100 6806 start sending
+Time: 6713 Packet: 72: 2 9 100 6613 finish sending: failed
+Time: 6848 Packet: 73: 3 1 100 6848 start sending: collision
+Time: 6738 Packet: 108: 8 7 100 6638 finish sending: failed
+Time: 6948 Packet: 73: 3 1 100 6848 finish sending: failed
+Time: 6981 Packet: 95: 5 6 100 6981 start sending
+Time: 6906 Packet: 77: 7 0 100 6806 finish sending: failed
+Time: 7047 Packet: 66: 6 5 100 7047 start sending
+Time: 7081 Packet: 95: 5 6 100 6981 finish sending: successfully transmitted
+Time: 7115 Packet: 54: 4 8 100 7115 start sending
+Time: 7131 Packet: 118: 8 1 100 7131 start sending: collision
+Time: 7147 Packet: 66: 6 5 100 7047 finish sending: failed
+Time: 7231 Packet: 118: 8 1 100 7131 finish sending: failed
+Time: 7347 Packet: 61: 1 3 100 7347 start sending
+Time: 7215 Packet: 54: 4 8 100 7115 finish sending: failed
+Time: 7365 Packet: 83: 3 8 100 7365 start sending
+Time: 7414 Packet: 87: 7 2 100 7414 start sending: collision
+Time: 7420 Packet: 59: 9 2 100 7420 start sending: collision
+Time: 7447 Packet: 61: 1 3 100 7347 finish sending: failed
+Time: 7514 Packet: 87: 7 2 100 7414 finish sending: failed
+Time: 7573 Packet: 105: 5 3 100 7573 start sending
+Time: 7465 Packet: 83: 3 8 100 7365 finish sending: failed
+Time: 7673 Packet: 105: 5 3 100 7573 finish sending: successfully transmitted
+Time: 7893 Packet: 97: 7 2 100 7893 start sending
+Time: 7520 Packet: 59: 9 2 100 7420 finish sending: failed
+Time: 7955 Packet: 76: 6 5 100 7955 start sending
+Time: 7971 Packet: 71: 1 8 100 7971 start sending: collision
+Time: 7993 Packet: 97: 7 2 100 7893 finish sending: failed
+Time: 8071 Packet: 71: 1 8 100 7971 finish sending: failed
+Time: 8298 Packet: 93: 3 5 100 8298 start sending
+Time: 8055 Packet: 76: 6 5 100 7955 finish sending: failed
+Time: 8433 Packet: 80: 0 9 100 8433 start sending
+Time: 8398 Packet: 93: 3 5 100 8298 finish sending: successfully transmitted
+Time: 8440 Packet: 82: 2 1 100 8440 start sending
+Time: 8533 Packet: 80: 0 9 100 8433 finish sending: successfully transmitted
+Time: 8588 Packet: 90: 0 5 100 8588 start sending
+Time: 8540 Packet: 82: 2 1 100 8440 finish sending: successfully transmitted
+Time: 8649 Packet: 64: 4 5 100 8649 start sending
+Time: 8688 Packet: 90: 0 5 100 8588 finish sending: successfully transmitted
+Time: 8779 Packet: 103: 3 7 100 8779 start sending
+Time: 8749 Packet: 64: 4 5 100 8649 finish sending: successfully transmitted
+Time: 8807 Packet: 86: 6 1 100 8807 start sending
+Time: 8821 Packet: 74: 4 8 100 8821 start sending: collision
+Time: 8835 Packet: 69: 9 2 100 8835 start sending: collision
+Time: 8858 Packet: 107: 7 3 100 8858 start sending: collision
+Time: 8862 Packet: 128: 8 0 100 8862 start sending: collision
+Time: 8879 Packet: 103: 3 7 100 8779 finish sending: failed
+Time: 8921 Packet: 74: 4 8 100 8821 finish sending: failed
+Time: 8958 Packet: 107: 7 3 100 8858 finish sending: failed
+Time: 9158 Packet: 81: 1 9 100 9158 start sending
+Time: 8907 Packet: 86: 6 1 100 8807 finish sending: failed
+Time: 8962 Packet: 128: 8 0 100 8862 finish sending: failed
+Time: 9381 Packet: 115: 5 3 100 9381 start sending
+Time: 8935 Packet: 69: 9 2 100 8835 finish sending: failed
+Time: 9473 Packet: 113: 3 5 100 9473 start sending: collision
+Time: 9258 Packet: 81: 1 9 100 9158 finish sending: successfully transmitted
+Time: 9573 Packet: 113: 3 5 100 9473 finish sending: failed
+Time: 9619 Packet: 96: 6 3 100 9619 start sending
+Time: 9481 Packet: 115: 5 3 100 9381 finish sending: failed
+Time: 9746 Packet: 84: 4 1 100 9746 start sending
+Time: 9719 Packet: 96: 6 3 100 9619 finish sending: successfully transmitted
+Time: 9937 Packet: 92: 2 8 100 9937 start sending
+Time: 9846 Packet: 84: 4 1 100 9746 finish sending: successfully transmitted
+Time: 10080 Packet: 106: 6 8 100 10080 start sending
+Time: 10037 Packet: 92: 2 8 100 9937 finish sending: successfully transmitted
+Time: 10269 Packet: 79: 9 0 100 10269 start sending
+Time: 10180 Packet: 106: 6 8 100 10080 finish sending: successfully transmitted
+Time: 10379 Packet: 100: 0 3 100 10379 start sending
+Time: 10369 Packet: 79: 9 0 100 10269 finish sending: successfully transmitted
+Time: 10385 Packet: 94: 4 6 100 10385 start sending
+Time: 10393 Packet: 138: 8 1 100 10393 start sending: collision
+Time: 10479 Packet: 100: 0 3 100 10379 finish sending: failed
+Time: 10493 Packet: 138: 8 1 100 10393 finish sending: failed
+Time: 10494 Packet: 104: 4 1 100 10494 start sending
+Time: 10485 Packet: 94: 4 6 100 10385 finish sending: failed
+Time: 10531 Packet: 117: 7 9 100 10531 start sending
+Time: 10594 Packet: 104: 4 1 100 10494 finish sending: successfully transmitted
+Time: 10828 Packet: 116: 6 1 100 10828 start sending
+Time: 10631 Packet: 117: 7 9 100 10531 finish sending: successfully transmitted
+Time: 10855 Packet: 91: 1 5 100 10855 start sending
+Time: 10869 Packet: 110: 0 4 100 10869 start sending: collision
+Time: 10928 Packet: 125: 5 6 100 10928 start sending: collision
+Time: 10928 Packet: 116: 6 1 100 10828 finish sending: failed
+Time: 10969 Packet: 110: 0 4 100 10869 finish sending: failed
+Time: 11021 Packet: 120: 0 2 100 11021 start sending
+Time: 10955 Packet: 91: 1 5 100 10855 finish sending: failed
+Time: 11121 Packet: 120: 0 2 100 11021 finish sending: successfully transmitted
+Time: 11139 Packet: 114: 4 8 100 11139 start sending
+Time: 11028 Packet: 125: 5 6 100 10928 finish sending: failed
+Time: 11142 Packet: 101: 1 0 100 11142 start sending
+Time: 11210 Packet: 123: 3 9 100 11210 start sending: collision
+Time: 11225 Packet: 102: 2 7 100 11225 start sending: collision
+Time: 11239 Packet: 114: 4 8 100 11139 finish sending: failed
+Time: 11282 Packet: 89: 9 5 100 11282 start sending: collision
+Time: 11242 Packet: 101: 1 0 100 11142 finish sending: failed
+Time: 11325 Packet: 102: 2 7 100 11225 finish sending: failed
+Time: 11373 Packet: 111: 1 8 100 11373 start sending
+Time: 11310 Packet: 123: 3 9 100 11210 finish sending: failed
+Time: 11393 Packet: 133: 3 7 100 11393 start sending: collision
+Time: 11382 Packet: 89: 9 5 100 11282 finish sending: failed
+Time: 11493 Packet: 133: 3 7 100 11393 finish sending: failed
+Time: 11909 Packet: 130: 0 4 100 11909 start sending
+Time: 11473 Packet: 111: 1 8 100 11373 finish sending: failed
+Time: 11948 Packet: 126: 6 8 100 11948 start sending
+Time: 11993 Packet: 148: 8 1 100 11993 start sending: collision
+Time: 12009 Packet: 130: 0 4 100 11909 finish sending: failed
+Time: 12093 Packet: 148: 8 1 100 11993 finish sending: failed
+Time: 12111 Packet: 127: 7 0 100 12111 start sending
+Time: 12048 Packet: 126: 6 8 100 11948 finish sending: failed
+Time: 12126 Packet: 112: 2 9 100 12126 start sending
+Time: 12170 Packet: 158: 8 2 100 12170 start sending: collision
+Time: 12211 Packet: 127: 7 0 100 12111 finish sending: failed
+Time: 12270 Packet: 158: 8 2 100 12170 finish sending: failed
+Time: 12428 Packet: 140: 0 2 100 12428 start sending
+Time: 12226 Packet: 112: 2 9 100 12126 finish sending: failed
+Time: 12546 Packet: 135: 5 6 100 12546 start sending
+Time: 12528 Packet: 140: 0 2 100 12428 finish sending: successfully transmitted
+Time: 12584 Packet: 124: 4 9 100 12584 start sending
+Time: 12641 Packet: 99: 9 7 100 12641 start sending: collision
+Time: 12646 Packet: 135: 5 6 100 12546 finish sending: failed
+Time: 12741 Packet: 99: 9 7 100 12641 finish sending: failed
+Time: 12779 Packet: 137: 7 9 100 12779 start sending
+Time: 12684 Packet: 124: 4 9 100 12584 finish sending: failed
+Time: 12890 Packet: 168: 8 5 100 12890 start sending
+Time: 12879 Packet: 137: 7 9 100 12779 finish sending: successfully transmitted
+Time: 12892 Packet: 121: 1 8 100 12892 start sending
+Time: 12922 Packet: 150: 0 4 100 12922 start sending: collision
+Time: 12990 Packet: 168: 8 5 100 12890 finish sending: failed
+Time: 13022 Packet: 150: 0 4 100 12922 finish sending: failed
+Time: 13037 Packet: 143: 3 5 100 13037 start sending
+Time: 12992 Packet: 121: 1 8 100 12892 finish sending: failed
+Time: 13453 Packet: 136: 6 7 100 13453 start sending
+Time: 13137 Packet: 143: 3 5 100 13037 finish sending: successfully transmitted
+Time: 13543 Packet: 160: 0 8 100 13543 start sending
+Time: 13553 Packet: 136: 6 7 100 13453 finish sending: successfully transmitted
+Time: 13605 Packet: 131: 1 6 100 13605 start sending
+Time: 13643 Packet: 160: 0 8 100 13543 finish sending: successfully transmitted
+Time: 13661 Packet: 134: 4 5 100 13661 start sending
+Time: 13705 Packet: 131: 1 6 100 13605 finish sending: successfully transmitted
+Time: 13755 Packet: 109: 9 4 100 13755 start sending
+Time: 13761 Packet: 134: 4 5 100 13661 finish sending: successfully transmitted
+Time: 13786 Packet: 178: 8 7 100 13786 start sending
+Time: 13855 Packet: 109: 9 4 100 13755 finish sending: successfully transmitted
+Time: 13878 Packet: 119: 9 5 100 13878 start sending
+Time: 13886 Packet: 178: 8 7 100 13786 finish sending: successfully transmitted
+Time: 13975 Packet: 122: 2 3 100 13975 start sending
+Time: 13978 Packet: 119: 9 5 100 13878 finish sending: successfully transmitted
+Time: 14158 Packet: 146: 6 1 100 14158 start sending
+Time: 14075 Packet: 122: 2 3 100 13975 finish sending: successfully transmitted
+Time: 14213 Packet: 145: 5 4 100 14213 start sending
+Time: 14258 Packet: 146: 6 1 100 14158 finish sending: successfully transmitted
+Time: 14426 Packet: 147: 7 1 100 14426 start sending
+Time: 14313 Packet: 145: 5 4 100 14213 finish sending: successfully transmitted
+Time: 14645 Packet: 170: 0 6 100 14645 start sending
+Time: 14526 Packet: 147: 7 1 100 14426 finish sending: successfully transmitted
+Time: 14717 Packet: 156: 6 3 100 14717 start sending
+Time: 14745 Packet: 170: 0 6 100 14645 finish sending: successfully transmitted
+Time: 14754 Packet: 144: 4 5 100 14754 start sending
+Time: 14791 Packet: 153: 3 8 100 14791 start sending: collision
+Time: 14817 Packet: 156: 6 3 100 14717 finish sending: failed
+Time: 14891 Packet: 153: 3 8 100 14791 finish sending: failed
+Time: 14990 Packet: 129: 9 7 100 14990 start sending
+Time: 14854 Packet: 144: 4 5 100 14754 finish sending: failed
+Time: 15079 Packet: 180: 0 9 100 15079 start sending
+Time: 15083 Packet: 188: 8 1 100 15083 start sending: collision
+Time: 15090 Packet: 129: 9 7 100 14990 finish sending: failed
+Time: 15113 Packet: 141: 1 3 100 15113 start sending: collision
+Time: 15179 Packet: 180: 0 9 100 15079 finish sending: failed
+Time: 15213 Packet: 141: 1 3 100 15113 finish sending: failed
+Time: 15319 Packet: 166: 6 4 100 15319 start sending
+Time: 15183 Packet: 188: 8 1 100 15083 finish sending: failed
+Time: 15322 Packet: 157: 7 3 100 15322 start sending
+Time: 15387 Packet: 139: 9 5 100 15387 start sending: collision
+Time: 15419 Packet: 166: 6 4 100 15319 finish sending: failed
+Time: 15487 Packet: 139: 9 5 100 15387 finish sending: failed
+Time: 15520 Packet: 132: 2 4 100 15520 start sending
+Time: 15422 Packet: 157: 7 3 100 15322 finish sending: failed
+Time: 15535 Packet: 155: 5 6 100 15535 start sending
+Time: 15547 Packet: 198: 8 7 100 15547 start sending: collision
+Time: 15579 Packet: 149: 9 7 100 15579 start sending: collision
+Time: 15620 Packet: 132: 2 4 100 15520 finish sending: failed
+Time: 15647 Packet: 198: 8 7 100 15547 finish sending: failed
+Time: 15687 Packet: 176: 6 1 100 15687 start sending
+Time: 15635 Packet: 155: 5 6 100 15535 finish sending: failed
+Time: 15787 Packet: 176: 6 1 100 15687 finish sending: successfully transmitted
+Time: 15830 Packet: 154: 4 8 100 15830 start sending
+Time: 15679 Packet: 149: 9 7 100 15579 finish sending: failed
+Time: 15855 Packet: 208: 8 9 100 15855 start sending
+Time: 15916 Packet: 142: 2 3 100 15916 start sending: collision
+Time: 15930 Packet: 154: 4 8 100 15830 finish sending: failed
+Time: 16016 Packet: 142: 2 3 100 15916 finish sending: failed
+Time: 16240 Packet: 151: 1 2 100 16240 start sending
+Time: 15955 Packet: 208: 8 9 100 15855 finish sending: failed
+Time: 16242 Packet: 186: 6 1 100 16242 start sending
+Time: 16243 Packet: 152: 2 9 100 16243 start sending: collision
+Time: 16257 Packet: 163: 3 1 100 16257 start sending: collision
+Time: 16340 Packet: 151: 1 2 100 16240 finish sending: failed
+Time: 16343 Packet: 152: 2 9 100 16243 finish sending: failed
+Time: 16487 Packet: 161: 1 2 100 16487 start sending
+Time: 16342 Packet: 186: 6 1 100 16242 finish sending: failed
+Time: 16585 Packet: 165: 5 3 100 16585 start sending: collision
+Time: 16357 Packet: 163: 3 1 100 16257 finish sending: failed
+Time: 16685 Packet: 165: 5 3 100 16585 finish sending: failed
+Time: 16727 Packet: 190: 0 1 100 16727 start sending
+Time: 16587 Packet: 161: 1 2 100 16487 finish sending: failed
+Time: 16768 Packet: 167: 7 0 100 16768 start sending
+Time: 16827 Packet: 190: 0 1 100 16727 finish sending: successfully transmitted
+Time: 17158 Packet: 159: 9 4 100 17158 start sending
+Time: 16868 Packet: 167: 7 0 100 16768 finish sending: successfully transmitted
+Time: 17416 Packet: 218: 8 2 100 17416 start sending
+Time: 17258 Packet: 159: 9 4 100 17158 finish sending: successfully transmitted
+Time: 17426 Packet: 200: 0 7 100 17426 start sending
+Time: 17436 Packet: 177: 7 8 100 17436 start sending: collision
+Time: 17516 Packet: 218: 8 2 100 17416 finish sending: failed
+Time: 17536 Packet: 177: 7 8 100 17436 finish sending: failed
+Time: 17609 Packet: 187: 7 5 100 17609 start sending
+Time: 17526 Packet: 200: 0 7 100 17426 finish sending: failed
+Time: 17647 Packet: 164: 4 6 100 17647 start sending
+Time: 17709 Packet: 187: 7 5 100 17609 finish sending: successfully transmitted
+Time: 17785 Packet: 196: 6 5 100 17785 start sending
+Time: 17747 Packet: 164: 4 6 100 17647 finish sending: successfully transmitted
+Time: 18002 Packet: 173: 3 0 100 18002 start sending
+Time: 17885 Packet: 196: 6 5 100 17785 finish sending: successfully transmitted
+Time: 18031 Packet: 228: 8 2 100 18031 start sending
+Time: 18070 Packet: 162: 2 1 100 18070 start sending: collision
+Time: 18102 Packet: 173: 3 0 100 18002 finish sending: failed
+Time: 18170 Packet: 162: 2 1 100 18070 finish sending: failed
+Time: 18191 Packet: 171: 1 5 100 18191 start sending
+Time: 18131 Packet: 228: 8 2 100 18031 finish sending: failed
+Time: 18242 Packet: 206: 6 4 100 18242 start sending
+Time: 18291 Packet: 171: 1 5 100 18191 finish sending: successfully transmitted
+Time: 18301 Packet: 174: 4 3 100 18301 start sending
+Time: 18302 Packet: 175: 5 6 100 18302 start sending: collision
+Time: 18342 Packet: 206: 6 4 100 18242 finish sending: failed
+Time: 18363 Packet: 183: 3 6 100 18363 start sending: collision
+Time: 18401 Packet: 174: 4 3 100 18301 finish sending: failed
+Time: 18463 Packet: 183: 3 6 100 18363 finish sending: failed
+Time: 18496 Packet: 169: 9 6 100 18496 start sending
+Time: 18402 Packet: 175: 5 6 100 18302 finish sending: failed
+Time: 18565 Packet: 193: 3 1 100 18565 start sending
+Time: 18596 Packet: 169: 9 6 100 18496 finish sending: successfully transmitted
+Time: 18806 Packet: 210: 0 9 100 18806 start sending
+Time: 18665 Packet: 193: 3 1 100 18565 finish sending: successfully transmitted
+Time: 18892 Packet: 238: 8 2 100 18892 start sending
+Time: 18904 Packet: 197: 7 8 100 18904 start sending: collision
+Time: 18906 Packet: 210: 0 9 100 18806 finish sending: failed
+Time: 19004 Packet: 197: 7 8 100 18904 finish sending: failed
+Time: 19050 Packet: 248: 8 2 100 19050 start sending
+Time: 18992 Packet: 238: 8 2 100 18892 finish sending: failed
+Time: 19142 Packet: 179: 9 0 100 19142 start sending
+Time: 19150 Packet: 248: 8 2 100 19050 finish sending: successfully transmitted
+Time: 19251 Packet: 172: 2 4 100 19251 start sending
+Time: 19242 Packet: 179: 9 0 100 19142 finish sending: successfully transmitted
+Time: 19312 Packet: 184: 4 5 100 19312 start sending
+Time: 19351 Packet: 172: 2 4 100 19251 finish sending: successfully transmitted
+Time: 19390 Packet: 185: 5 0 100 19390 start sending
+Time: 19412 Packet: 184: 4 5 100 19312 finish sending: successfully transmitted
+Time: 19498 Packet: 203: 3 8 100 19498 start sending
+Time: 19490 Packet: 185: 5 0 100 19390 finish sending: successfully transmitted
+Time: 19500 Packet: 258: 8 3 100 19500 start sending
+Time: 19563 Packet: 182: 2 7 100 19563 start sending: collision
+Time: 19598 Packet: 203: 3 8 100 19498 finish sending: failed
+Time: 19663 Packet: 182: 2 7 100 19563 finish sending: failed
+Time: 19666 Packet: 220: 0 8 100 19666 start sending
+Time: 19600 Packet: 258: 8 3 100 19500 finish sending: failed
+Time: 19670 Packet: 192: 2 1 100 19670 start sending
+Time: 19766 Packet: 220: 0 8 100 19666 finish sending: successfully transmitted
+Time: 19768 Packet: 207: 7 9 100 19768 start sending
+Time: 19770 Packet: 192: 2 1 100 19670 finish sending: successfully transmitted
+Time: 19912 Packet: 216: 6 5 100 19912 start sending
+Time: 19868 Packet: 207: 7 9 100 19768 finish sending: successfully transmitted
+Time: 19957 Packet: 181: 1 4 100 19957 start sending
+Time: 20012 Packet: 216: 6 5 100 19912 finish sending: successfully transmitted
+Time: 20223 Packet: 217: 7 1 100 20223 start sending
+Time: 20057 Packet: 181: 1 4 100 19957 finish sending: successfully transmitted
+Time: 20402 Packet: 194: 4 9 100 20402 start sending
+Time: 20323 Packet: 217: 7 1 100 20223 finish sending: successfully transmitted
+Time: 20405 Packet: 195: 5 1 100 20405 start sending
+Time: 20418 Packet: 268: 8 6 100 20418 start sending: collision
+Time: 20502 Packet: 194: 4 9 100 20402 finish sending: failed
+Time: 20518 Packet: 268: 8 6 100 20418 finish sending: failed
+Time: 20556 Packet: 191: 1 7 100 20556 start sending
+Time: 20505 Packet: 195: 5 1 100 20405 finish sending: failed
+Time: 20557 Packet: 227: 7 5 100 20557 start sending
+Time: 20560 Packet: 202: 2 0 100 20560 start sending: collision
+Time: 20607 Packet: 189: 9 3 100 20607 start sending: collision
+Time: 20656 Packet: 191: 1 7 100 20556 finish sending: failed
+Time: 20660 Packet: 202: 2 0 100 20560 finish sending: failed
+Time: 20795 Packet: 204: 4 6 100 20795 start sending
+Time: 20657 Packet: 227: 7 5 100 20557 finish sending: failed
+Time: 20877 Packet: 237: 7 2 100 20877 start sending: collision
+Time: 20707 Packet: 189: 9 3 100 20607 finish sending: failed
+Time: 20892 Packet: 205: 5 4 100 20892 start sending: collision
+Time: 20895 Packet: 204: 4 6 100 20795 finish sending: failed
+Time: 20973 Packet: 230: 0 3 100 20973 start sending: collision
+Time: 20977 Packet: 237: 7 2 100 20877 finish sending: failed
+Time: 20997 Packet: 199: 9 4 100 20997 start sending: collision
+Time: 20992 Packet: 205: 5 4 100 20892 finish sending: failed
+Time: 21009 Packet: 226: 6 3 100 21009 start sending: collision
+Time: 21073 Packet: 230: 0 3 100 20973 finish sending: failed
+Time: 21109 Packet: 226: 6 3 100 21009 finish sending: failed
+Time: 21229 Packet: 213: 3 0 100 21229 start sending
+Time: 21097 Packet: 199: 9 4 100 20997 finish sending: failed
+Time: 21330 Packet: 247: 7 0 100 21330 start sending
+Time: 21329 Packet: 213: 3 0 100 21229 finish sending: successfully transmitted
+Time: 21438 Packet: 223: 3 8 100 21438 start sending
+Time: 21430 Packet: 247: 7 0 100 21330 finish sending: successfully transmitted
+Time: 21461 Packet: 236: 6 0 100 21461 start sending
+Time: 21538 Packet: 223: 3 8 100 21438 finish sending: successfully transmitted
+Time: 21615 Packet: 233: 3 2 100 21615 start sending
+Time: 21561 Packet: 236: 6 0 100 21461 finish sending: successfully transmitted
+Time: 21626 Packet: 278: 8 3 100 21626 start sending
+Time: 21715 Packet: 233: 3 2 100 21615 finish sending: successfully transmitted
+Time: 21790 Packet: 212: 2 6 100 21790 start sending
+Time: 21726 Packet: 278: 8 3 100 21626 finish sending: successfully transmitted
+Time: 21926 Packet: 243: 3 0 100 21926 start sending
+Time: 21890 Packet: 212: 2 6 100 21790 finish sending: successfully transmitted
+Time: 21975 Packet: 215: 5 2 100 21975 start sending
+Time: 22026 Packet: 243: 3 0 100 21926 finish sending: successfully transmitted
+Time: 22075 Packet: 253: 3 6 100 22075 start sending
+Time: 22075 Packet: 215: 5 2 100 21975 finish sending: successfully transmitted
+Time: 22131 Packet: 240: 0 8 100 22131 start sending
+Time: 22146 Packet: 201: 1 0 100 22146 start sending: collision
+Time: 22175 Packet: 253: 3 6 100 22075 finish sending: failed
+Time: 22246 Packet: 201: 1 0 100 22146 finish sending: failed
+Time: 22493 Packet: 288: 8 2 100 22493 start sending
+Time: 22231 Packet: 240: 0 8 100 22131 finish sending: failed
+Time: 22562 Packet: 225: 5 4 100 22562 start sending
+Time: 22593 Packet: 288: 8 2 100 22493 finish sending: successfully transmitted
+Time: 22597 Packet: 209: 9 5 100 22597 start sending
+Time: 22662 Packet: 225: 5 4 100 22562 finish sending: successfully transmitted
+Time: 22686 Packet: 214: 4 7 100 22686 start sending
+Time: 22697 Packet: 209: 9 5 100 22597 finish sending: successfully transmitted
+Time: 22976 Packet: 246: 6 0 100 22976 start sending
+Time: 22786 Packet: 214: 4 7 100 22686 finish sending: successfully transmitted
+Time: 23163 Packet: 257: 7 3 100 23163 start sending
+Time: 23076 Packet: 246: 6 0 100 22976 finish sending: successfully transmitted
+Time: 23388 Packet: 235: 5 1 100 23388 start sending
+Time: 23263 Packet: 257: 7 3 100 23163 finish sending: successfully transmitted
+Time: 23394 Packet: 222: 2 5 100 23394 start sending
+Time: 23453 Packet: 211: 1 0 100 23453 start sending: collision
+Time: 23488 Packet: 235: 5 1 100 23388 finish sending: failed
+Time: 23516 Packet: 263: 3 6 100 23516 start sending: collision
+Time: 23494 Packet: 222: 2 5 100 23394 finish sending: failed
+Time: 23616 Packet: 263: 3 6 100 23516 finish sending: failed
+Time: 23755 Packet: 250: 0 5 100 23755 start sending
+Time: 23553 Packet: 211: 1 0 100 23453 finish sending: failed
+Time: 23760 Packet: 221: 1 8 100 23760 start sending
+Time: 23805 Packet: 224: 4 3 100 23805 start sending: collision
+Time: 23855 Packet: 250: 0 5 100 23755 finish sending: failed
+Time: 23905 Packet: 224: 4 3 100 23805 finish sending: failed
+Time: 23932 Packet: 231: 1 2 100 23932 start sending
+Time: 23860 Packet: 221: 1 8 100 23760 finish sending: failed
+Time: 23986 Packet: 232: 2 5 100 23986 start sending
+Time: 24032 Packet: 231: 1 2 100 23932 finish sending: successfully transmitted
+Time: 24088 Packet: 298: 8 9 100 24088 start sending
+Time: 24086 Packet: 232: 2 5 100 23986 finish sending: successfully transmitted
+Time: 24160 Packet: 245: 5 6 100 24160 start sending
+Time: 24188 Packet: 298: 8 9 100 24088 finish sending: successfully transmitted
+Time: 24420 Packet: 256: 6 3 100 24420 start sending
+Time: 24260 Packet: 245: 5 6 100 24160 finish sending: successfully transmitted
+Time: 24443 Packet: 219: 9 1 100 24443 start sending
+Time: 24520 Packet: 256: 6 3 100 24420 finish sending: successfully transmitted
+Time: 24537 Packet: 242: 2 6 100 24537 start sending
+Time: 24543 Packet: 219: 9 1 100 24443 finish sending: successfully transmitted
+Time: 24629 Packet: 234: 4 9 100 24629 start sending
+Time: 24637 Packet: 242: 2 6 100 24537 finish sending: successfully transmitted
+Time: 24915 Packet: 260: 0 2 100 24915 start sending
+Time: 24729 Packet: 234: 4 9 100 24629 finish sending: successfully transmitted
+Time: 24999 Packet: 267: 7 2 100 24999 start sending
+Time: 25015 Packet: 260: 0 2 100 24915 finish sending: successfully transmitted
+Time: 25138 Packet: 273: 3 6 100 25138 start sending
+Time: 25099 Packet: 267: 7 2 100 24999 finish sending: successfully transmitted
+Time: 25240 Packet: 255: 5 8 100 25240 start sending
+Time: 25238 Packet: 273: 3 6 100 25138 finish sending: successfully transmitted
+Time: 25277 Packet: 308: 8 1 100 25277 start sending
+Time: 25340 Packet: 255: 5 8 100 25240 finish sending: successfully transmitted
+Time: 25426 Packet: 229: 9 0 100 25426 start sending
+Time: 25377 Packet: 308: 8 1 100 25277 finish sending: successfully transmitted
+Time: 25507 Packet: 318: 8 7 100 25507 start sending
+Time: 25526 Packet: 229: 9 0 100 25426 finish sending: successfully transmitted
+Time: 25749 Packet: 266: 6 5 100 25749 start sending
+Time: 25607 Packet: 318: 8 7 100 25507 finish sending: successfully transmitted
+Time: 25811 Packet: 241: 1 4 100 25811 start sending
+Time: 25849 Packet: 266: 6 5 100 25749 finish sending: successfully transmitted
+Time: 25939 Packet: 283: 3 6 100 25939 start sending
+Time: 25911 Packet: 241: 1 4 100 25811 finish sending: successfully transmitted
+Time: 25947 Packet: 239: 9 8 100 25947 start sending
+Time: 26039 Packet: 283: 3 6 100 25939 finish sending: successfully transmitted
+Time: 26061 Packet: 252: 2 8 100 26061 start sending
+Time: 26047 Packet: 239: 9 8 100 25947 finish sending: successfully transmitted
+Time: 26081 Packet: 276: 6 5 100 26081 start sending
+Time: 26119 Packet: 251: 1 2 100 26119 start sending: collision
+Time: 26153 Packet: 249: 9 6 100 26153 start sending: collision
+Time: 26161 Packet: 252: 2 8 100 26061 finish sending: failed
+Time: 26219 Packet: 251: 1 2 100 26119 finish sending: failed
+Time: 26314 Packet: 286: 6 2 100 26314 start sending
+Time: 26181 Packet: 276: 6 5 100 26081 finish sending: failed
+Time: 26341 Packet: 244: 4 6 100 26341 start sending: collision
+Time: 26253 Packet: 249: 9 6 100 26153 finish sending: failed
+Time: 26441 Packet: 244: 4 6 100 26341 finish sending: failed
+Time: 26451 Packet: 270: 0 4 100 26451 start sending
+Time: 26414 Packet: 286: 6 2 100 26314 finish sending: failed
+Time: 26642 Packet: 265: 5 6 100 26642 start sending
+Time: 26551 Packet: 270: 0 4 100 26451 finish sending: successfully transmitted
+Time: 26778 Packet: 277: 7 0 100 26778 start sending
+Time: 26742 Packet: 265: 5 6 100 26642 finish sending: successfully transmitted
+Time: 26796 Packet: 275: 5 3 100 26796 start sending
+Time: 26862 Packet: 280: 0 5 100 26862 start sending: collision
+Time: 26878 Packet: 277: 7 0 100 26778 finish sending: failed
+Time: 26962 Packet: 280: 0 5 100 26862 finish sending: failed
+Time: 27101 Packet: 296: 6 2 100 27101 start sending
+Time: 26896 Packet: 275: 5 3 100 26796 finish sending: failed
+Time: 27170 Packet: 259: 9 1 100 27170 start sending
+Time: 27201 Packet: 328: 8 5 100 27201 start sending: collision
+Time: 27201 Packet: 296: 6 2 100 27101 finish sending: failed
+Time: 27301 Packet: 328: 8 5 100 27201 finish sending: failed
+Time: 27558 Packet: 261: 1 9 100 27558 start sending
+Time: 27270 Packet: 259: 9 1 100 27170 finish sending: failed
+Time: 27741 Packet: 269: 9 3 100 27741 start sending
+Time: 27658 Packet: 261: 1 9 100 27558 finish sending: successfully transmitted
+Time: 27785 Packet: 293: 3 6 100 27785 start sending
+Time: 27841 Packet: 269: 9 3 100 27741 finish sending: successfully transmitted
+Time: 27914 Packet: 262: 2 5 100 27914 start sending
+Time: 27885 Packet: 293: 3 6 100 27785 finish sending: successfully transmitted
+Time: 28059 Packet: 254: 4 9 100 28059 start sending
+Time: 28014 Packet: 262: 2 5 100 27914 finish sending: successfully transmitted
+Time: 28125 Packet: 285: 5 1 100 28125 start sending
+Time: 28159 Packet: 254: 4 9 100 28059 finish sending: successfully transmitted
+Time: 28166 Packet: 279: 9 6 100 28166 start sending
+Time: 28225 Packet: 285: 5 1 100 28125 finish sending: successfully transmitted
+Time: 28228 Packet: 290: 0 6 100 28228 start sending
+Time: 28266 Packet: 279: 9 6 100 28166 finish sending: successfully transmitted
+Time: 28322 Packet: 303: 3 0 100 28322 start sending
+Time: 28328 Packet: 290: 0 6 100 28228 finish sending: successfully transmitted
+Time: 28339 Packet: 271: 1 9 100 28339 start sending
+Time: 28392 Packet: 306: 6 9 100 28392 start sending: collision
+Time: 28422 Packet: 303: 3 0 100 28322 finish sending: failed
+Time: 28492 Packet: 306: 6 9 100 28392 finish sending: failed
+Time: 28645 Packet: 287: 7 0 100 28645 start sending
+Time: 28439 Packet: 271: 1 9 100 28339 finish sending: failed
+Time: 28820 Packet: 289: 9 5 100 28820 start sending
+Time: 28745 Packet: 287: 7 0 100 28645 finish sending: successfully transmitted
+Time: 28897 Packet: 272: 2 8 100 28897 start sending
+Time: 28920 Packet: 289: 9 5 100 28820 finish sending: successfully transmitted
+Time: 28959 Packet: 338: 8 9 100 28959 start sending
+Time: 28997 Packet: 272: 2 8 100 28897 finish sending: successfully transmitted
+Time: 29002 Packet: 300: 0 4 100 29002 start sending
+Time: 29059 Packet: 338: 8 9 100 28959 finish sending: successfully transmitted
+Time: 29134 Packet: 316: 6 8 100 29134 start sending
+Time: 29102 Packet: 300: 0 4 100 29002 finish sending: successfully transmitted
+Time: 29201 Packet: 297: 7 5 100 29201 start sending
+Time: 29234 Packet: 316: 6 8 100 29134 finish sending: successfully transmitted
+Time: 29317 Packet: 307: 7 0 100 29317 start sending
+Time: 29301 Packet: 297: 7 5 100 29201 finish sending: successfully transmitted
+Time: 29639 Packet: 326: 6 7 100 29639 start sending
+Time: 29417 Packet: 307: 7 0 100 29317 finish sending: successfully transmitted
+Time: 29683 Packet: 264: 4 3 100 29683 start sending
+Time: 29689 Packet: 299: 9 4 100 29689 start sending: collision
+Time: 29739 Packet: 326: 6 7 100 29639 finish sending: failed
+Time: 29789 Packet: 299: 9 4 100 29689 finish sending: failed
+Time: 29870 Packet: 295: 5 1 100 29870 start sending
+Time: 29783 Packet: 264: 4 3 100 29683 finish sending: failed
+Time: 30017 Packet: 310: 0 7 100 30017 start sending
+Time: 29970 Packet: 295: 5 1 100 29870 finish sending: successfully transmitted
+Time: 30076 Packet: 281: 1 2 100 30076 start sending
+Time: 30106 Packet: 313: 3 5 100 30106 start sending: collision
+Time: 30117 Packet: 310: 0 7 100 30017 finish sending: failed
+Time: 30206 Packet: 313: 3 5 100 30106 finish sending: failed
+Time: 30365 Packet: 336: 6 5 100 30365 start sending
+Time: 30176 Packet: 281: 1 2 100 30076 finish sending: failed
+Time: 30382 Packet: 282: 2 5 100 30382 start sending
+Time: 30418 Packet: 348: 8 3 100 30418 start sending: collision
+Time: 30465 Packet: 336: 6 5 100 30365 finish sending: failed
+Time: 30518 Packet: 348: 8 3 100 30418 finish sending: failed
+Time: 30619 Packet: 274: 4 7 100 30619 start sending
+Time: 30482 Packet: 282: 2 5 100 30382 finish sending: failed
+Time: 30624 Packet: 346: 6 8 100 30624 start sending
+Time: 30632 Packet: 291: 1 4 100 30632 start sending: collision
+Time: 30719 Packet: 274: 4 7 100 30619 finish sending: failed
+Time: 30732 Packet: 291: 1 4 100 30632 finish sending: failed
+Time: 30783 Packet: 309: 9 1 100 30783 start sending
+Time: 30724 Packet: 346: 6 8 100 30624 finish sending: failed
+Time: 30835 Packet: 323: 3 6 100 30835 start sending
+Time: 30883 Packet: 309: 9 1 100 30783 finish sending: successfully transmitted
+Time: 30888 Packet: 317: 7 0 100 30888 start sending
+Time: 30912 Packet: 301: 1 6 100 30912 start sending: collision
+Time: 30935 Packet: 323: 3 6 100 30835 finish sending: failed
+Time: 31012 Packet: 301: 1 6 100 30912 finish sending: failed
+Time: 31055 Packet: 320: 0 3 100 31055 start sending
+Time: 30988 Packet: 317: 7 0 100 30888 finish sending: failed
+Time: 31083 Packet: 311: 1 0 100 31083 start sending
+Time: 31100 Packet: 356: 6 4 100 31100 start sending: collision
+Time: 31155 Packet: 320: 0 3 100 31055 finish sending: failed
+Time: 31172 Packet: 292: 2 1 100 31172 start sending: collision
+Time: 31183 Packet: 311: 1 0 100 31083 finish sending: failed
+Time: 31272 Packet: 292: 2 1 100 31172 finish sending: failed
+Time: 31339 Packet: 358: 8 3 100 31339 start sending
+Time: 31200 Packet: 356: 6 4 100 31100 finish sending: failed
+Time: 31390 Packet: 284: 4 7 100 31390 start sending
+Time: 31439 Packet: 358: 8 3 100 31339 finish sending: successfully transmitted
+Time: 31553 Packet: 305: 5 2 100 31553 start sending
+Time: 31490 Packet: 284: 4 7 100 31390 finish sending: successfully transmitted
+Time: 31722 Packet: 366: 6 8 100 31722 start sending
+Time: 31653 Packet: 305: 5 2 100 31553 finish sending: successfully transmitted
+Time: 31939 Packet: 327: 7 2 100 31939 start sending
+Time: 31822 Packet: 366: 6 8 100 31722 finish sending: successfully transmitted
+Time: 31944 Packet: 333: 3 5 100 31944 start sending
+Time: 31991 Packet: 319: 9 5 100 31991 start sending: collision
+Time: 32036 Packet: 330: 0 7 100 32036 start sending: collision
+Time: 32039 Packet: 327: 7 2 100 31939 finish sending: failed
+Time: 32091 Packet: 319: 9 5 100 31991 finish sending: failed
+Time: 32152 Packet: 368: 8 4 100 32152 start sending
+Time: 32044 Packet: 333: 3 5 100 31944 finish sending: failed
+Time: 32153 Packet: 343: 3 4 100 32153 start sending: collision
+Time: 32136 Packet: 330: 0 7 100 32036 finish sending: failed
+Time: 32253 Packet: 343: 3 4 100 32153 finish sending: failed
+Time: 32282 Packet: 378: 8 1 100 32282 start sending
+Time: 32252 Packet: 368: 8 4 100 32152 finish sending: failed
+Time: 32357 Packet: 294: 4 3 100 32357 start sending
+Time: 32382 Packet: 378: 8 1 100 32282 finish sending: successfully transmitted
+Time: 32559 Packet: 337: 7 4 100 32559 start sending
+Time: 32457 Packet: 294: 4 3 100 32357 finish sending: successfully transmitted
+Time: 32612 Packet: 353: 3 8 100 32612 start sending
+Time: 32659 Packet: 337: 7 4 100 32559 finish sending: successfully transmitted
+Time: 32684 Packet: 388: 8 5 100 32684 start sending
+Time: 32712 Packet: 353: 3 8 100 32612 finish sending: successfully transmitted
+Time: 32726 Packet: 302: 2 1 100 32726 start sending
+Time: 32784 Packet: 388: 8 5 100 32684 finish sending: successfully transmitted
+Time: 32889 Packet: 376: 6 7 100 32889 start sending
+Time: 32826 Packet: 302: 2 1 100 32726 finish sending: successfully transmitted
+Time: 32952 Packet: 321: 1 2 100 32952 start sending
+Time: 32989 Packet: 376: 6 7 100 32889 finish sending: successfully transmitted
+Time: 33168 Packet: 315: 5 8 100 33168 start sending
+Time: 33052 Packet: 321: 1 2 100 32952 finish sending: successfully transmitted
+Time: 33278 Packet: 304: 4 1 100 33278 start sending
+Time: 33268 Packet: 315: 5 8 100 33168 finish sending: successfully transmitted
+Time: 33327 Packet: 347: 7 3 100 33327 start sending
+Time: 33378 Packet: 304: 4 1 100 33278 finish sending: successfully transmitted
+Time: 33448 Packet: 386: 6 0 100 33448 start sending
+Time: 33427 Packet: 347: 7 3 100 33327 finish sending: successfully transmitted
+Time: 33475 Packet: 363: 3 6 100 33475 start sending
+Time: 33509 Packet: 329: 9 2 100 33509 start sending: collision
+Time: 33548 Packet: 386: 6 0 100 33448 finish sending: failed
+Time: 33609 Packet: 329: 9 2 100 33509 finish sending: failed
+Time: 33872 Packet: 325: 5 8 100 33872 start sending
+Time: 33575 Packet: 363: 3 6 100 33475 finish sending: failed
+Time: 33887 Packet: 339: 9 0 100 33887 start sending
+Time: 33906 Packet: 340: 0 5 100 33906 start sending: collision
+Time: 33972 Packet: 325: 5 8 100 33872 finish sending: failed
+Time: 34006 Packet: 340: 0 5 100 33906 finish sending: failed
+Time: 34016 Packet: 314: 4 0 100 34016 start sending
+Time: 33987 Packet: 339: 9 0 100 33887 finish sending: failed
+Time: 34126 Packet: 331: 1 4 100 34126 start sending
+Time: 34116 Packet: 314: 4 0 100 34016 finish sending: successfully transmitted
+Time: 34171 Packet: 312: 2 5 100 34171 start sending
+Time: 34226 Packet: 331: 1 4 100 34126 finish sending: successfully transmitted
+Time: 34259 Packet: 335: 5 8 100 34259 start sending
+Time: 34271 Packet: 312: 2 5 100 34171 finish sending: successfully transmitted
+Time: 34353 Packet: 398: 8 7 100 34353 start sending
+Time: 34359 Packet: 335: 5 8 100 34259 finish sending: successfully transmitted
+Time: 34425 Packet: 324: 4 2 100 34425 start sending
+Time: 34453 Packet: 398: 8 7 100 34353 finish sending: successfully transmitted
+Time: 34603 Packet: 357: 7 1 100 34603 start sending
+Time: 34525 Packet: 324: 4 2 100 34425 finish sending: successfully transmitted
+Time: 34714 Packet: 350: 0 1 100 34714 start sending
+Time: 34703 Packet: 357: 7 1 100 34603 finish sending: successfully transmitted
+Time: 34722 Packet: 408: 8 4 100 34722 start sending
+Time: 34790 Packet: 341: 1 0 100 34790 start sending: collision
+Time: 34814 Packet: 350: 0 1 100 34714 finish sending: failed
+Time: 34860 Packet: 373: 3 7 100 34860 start sending: collision
+Time: 34822 Packet: 408: 8 4 100 34722 finish sending: failed
+Time: 34960 Packet: 373: 3 7 100 34860 finish sending: failed
+Time: 35029 Packet: 367: 7 6 100 35029 start sending
+Time: 34890 Packet: 341: 1 0 100 34790 finish sending: failed
+Time: 35040 Packet: 396: 6 3 100 35040 start sending
+Time: 35046 Packet: 345: 5 4 100 35046 start sending: collision
+Time: 35129 Packet: 367: 7 6 100 35029 finish sending: failed
+Time: 35146 Packet: 345: 5 4 100 35046 finish sending: failed
+Time: 35358 Packet: 355: 5 6 100 35358 start sending
+Time: 35140 Packet: 396: 6 3 100 35040 finish sending: failed
+Time: 35663 Packet: 377: 7 9 100 35663 start sending
+Time: 35458 Packet: 355: 5 6 100 35358 finish sending: successfully transmitted
+Time: 35718 Packet: 360: 0 9 100 35718 start sending
+Time: 35754 Packet: 349: 9 1 100 35754 start sending: collision
+Time: 35763 Packet: 377: 7 9 100 35663 finish sending: failed
+Time: 35854 Packet: 349: 9 1 100 35754 finish sending: failed
+Time: 35943 Packet: 365: 5 6 100 35943 start sending
+Time: 35818 Packet: 360: 0 9 100 35718 finish sending: failed
+Time: 35951 Packet: 418: 8 1 100 35951 start sending
+Time: 36008 Packet: 322: 2 7 100 36008 start sending: collision
+Time: 36043 Packet: 365: 5 6 100 35943 finish sending: failed
+Time: 36070 Packet: 334: 4 5 100 36070 start sending: collision
+Time: 36051 Packet: 418: 8 1 100 35951 finish sending: failed
+Time: 36170 Packet: 334: 4 5 100 36070 finish sending: failed
+Time: 36194 Packet: 428: 8 6 100 36194 start sending
+Time: 36108 Packet: 322: 2 7 100 36008 finish sending: failed
+Time: 36258 Packet: 383: 3 7 100 36258 start sending
+Time: 36294 Packet: 428: 8 6 100 36194 finish sending: successfully transmitted
+Time: 36530 Packet: 387: 7 4 100 36530 start sending
+Time: 36358 Packet: 383: 3 7 100 36258 finish sending: successfully transmitted
+Time: 36535 Packet: 351: 1 9 100 36535 start sending
+Time: 36538 Packet: 359: 9 6 100 36538 start sending: collision
+Time: 36602 Packet: 406: 6 9 100 36602 start sending: collision
+Time: 36630 Packet: 387: 7 4 100 36530 finish sending: failed
+Time: 36638 Packet: 359: 9 6 100 36538 finish sending: failed
+Time: 36671 Packet: 397: 7 0 100 36671 start sending
+Time: 36635 Packet: 351: 1 9 100 36535 finish sending: failed
+Time: 36687 Packet: 344: 4 9 100 36687 start sending: collision
+Time: 36702 Packet: 406: 6 9 100 36602 finish sending: failed
+Time: 36718 Packet: 438: 8 6 100 36718 start sending: collision
+Time: 36771 Packet: 397: 7 0 100 36671 finish sending: failed
+Time: 36811 Packet: 393: 3 9 100 36811 start sending: collision
+Time: 36787 Packet: 344: 4 9 100 36687 finish sending: failed
+Time: 36911 Packet: 393: 3 9 100 36811 finish sending: failed
+Time: 36959 Packet: 407: 7 6 100 36959 start sending
+Time: 36818 Packet: 438: 8 6 100 36718 finish sending: failed
+Time: 37126 Packet: 448: 8 3 100 37126 start sending
+Time: 37059 Packet: 407: 7 6 100 36959 finish sending: successfully transmitted
+Time: 37182 Packet: 403: 3 9 100 37182 start sending
+Time: 37205 Packet: 370: 0 5 100 37205 start sending: collision
+Time: 37226 Packet: 448: 8 3 100 37126 finish sending: failed
+Time: 37251 Packet: 354: 4 5 100 37251 start sending: collision
+Time: 37282 Packet: 403: 3 9 100 37182 finish sending: failed
+Time: 37351 Packet: 354: 4 5 100 37251 finish sending: failed
+Time: 37482 Packet: 375: 5 6 100 37482 start sending
+Time: 37305 Packet: 370: 0 5 100 37205 finish sending: failed
+Time: 37596 Packet: 385: 5 9 100 37596 start sending
+Time: 37582 Packet: 375: 5 6 100 37482 finish sending: successfully transmitted
+Time: 37835 Packet: 416: 6 1 100 37835 start sending
+Time: 37696 Packet: 385: 5 9 100 37596 finish sending: successfully transmitted
+Time: 37861 Packet: 332: 2 1 100 37861 start sending
+Time: 37935 Packet: 416: 6 1 100 37835 finish sending: successfully transmitted
+Time: 37961 Packet: 369: 9 6 100 37961 start sending
+Time: 37961 Packet: 332: 2 1 100 37861 finish sending: successfully transmitted
+Time: 37997 Packet: 458: 8 5 100 37997 start sending
+Time: 38061 Packet: 369: 9 6 100 37961 finish sending: successfully transmitted
+Time: 38255 Packet: 417: 7 9 100 38255 start sending
+Time: 38097 Packet: 458: 8 5 100 37997 finish sending: successfully transmitted
+Time: 38381 Packet: 361: 1 2 100 38381 start sending
+Time: 38355 Packet: 417: 7 9 100 38255 finish sending: successfully transmitted
+Time: 38682 Packet: 364: 4 6 100 38682 start sending
+Time: 38481 Packet: 361: 1 2 100 38381 finish sending: successfully transmitted
+Time: 38821 Packet: 413: 3 8 100 38821 start sending
+Time: 38782 Packet: 364: 4 6 100 38682 finish sending: successfully transmitted
+Time: 38852 Packet: 379: 9 8 100 38852 start sending
+Time: 38854 Packet: 380: 0 2 100 38854 start sending: collision
+Time: 38862 Packet: 342: 2 5 100 38862 start sending: collision
+Time: 38921 Packet: 413: 3 8 100 38821 finish sending: failed
+Time: 38954 Packet: 380: 0 2 100 38854 finish sending: failed
+Time: 39016 Packet: 423: 3 0 100 39016 start sending
+Time: 38952 Packet: 379: 9 8 100 38852 finish sending: failed
+Time: 39116 Packet: 423: 3 0 100 39016 finish sending: successfully transmitted
+Time: 39133 Packet: 427: 7 3 100 39133 start sending
+Time: 38962 Packet: 342: 2 5 100 38862 finish sending: failed
+Time: 39352 Packet: 395: 5 6 100 39352 start sending
+Time: 39233 Packet: 427: 7 3 100 39133 finish sending: successfully transmitted
+Time: 39366 Packet: 437: 7 4 100 39366 start sending
+Time: 39452 Packet: 395: 5 6 100 39352 finish sending: successfully transmitted
+Time: 39473 Packet: 426: 6 2 100 39473 start sending
+Time: 39466 Packet: 437: 7 4 100 39366 finish sending: successfully transmitted
+Time: 39522 Packet: 352: 2 5 100 39522 start sending
+Time: 39562 Packet: 374: 4 7 100 39562 start sending: collision
+Time: 39573 Packet: 426: 6 2 100 39473 finish sending: failed
+Time: 39593 Packet: 371: 1 9 100 39593 start sending: collision
+Time: 39622 Packet: 352: 2 5 100 39522 finish sending: failed
+Time: 39693 Packet: 468: 8 9 100 39693 start sending: collision
+Time: 39662 Packet: 374: 4 7 100 39562 finish sending: failed
+Time: 39748 Packet: 389: 9 8 100 39748 start sending: collision
+Time: 39693 Packet: 371: 1 9 100 39593 finish sending: failed
+Time: 39848 Packet: 389: 9 8 100 39748 finish sending: failed
+Time: 39879 Packet: 390: 0 9 100 39879 start sending
+Time: 39793 Packet: 468: 8 9 100 39693 finish sending: failed
+Time: 39945 Packet: 399: 9 7 100 39945 start sending
+Time: 39947 Packet: 436: 6 5 100 39947 start sending: collision
+Time: 39979 Packet: 390: 0 9 100 39879 finish sending: failed
+Time: 40047 Packet: 436: 6 5 100 39947 finish sending: failed
+Time: 40135 Packet: 405: 5 8 100 40135 start sending
+Time: 40045 Packet: 399: 9 7 100 39945 finish sending: failed
+Time: 40220 Packet: 409: 9 3 100 40220 start sending
+Time: 40235 Packet: 405: 5 8 100 40135 finish sending: successfully transmitted
+Time: 40264 Packet: 362: 2 5 100 40264 start sending
+Time: 40265 Packet: 446: 6 9 100 40265 start sending: collision
+Time: 40320 Packet: 409: 9 3 100 40220 finish sending: failed
+Time: 40365 Packet: 372: 2 4 100 40365 start sending: collision
+Time: 40364 Packet: 362: 2 5 100 40264 finish sending: failed
+Time: 40465 Packet: 372: 2 4 100 40365 finish sending: failed
+Time: 40536 Packet: 384: 4 7 100 40536 start sending
+Time: 40365 Packet: 446: 6 9 100 40265 finish sending: failed
+Time: 40580 Packet: 433: 3 4 100 40580 start sending
+Time: 40636 Packet: 384: 4 7 100 40536 finish sending: successfully transmitted
+Time: 40670 Packet: 381: 1 6 100 40670 start sending
+Time: 40680 Packet: 433: 3 4 100 40580 finish sending: successfully transmitted
+Time: 40729 Packet: 447: 7 8 100 40729 start sending
+Time: 40770 Packet: 381: 1 6 100 40670 finish sending: successfully transmitted
+Time: 41019 Packet: 400: 0 4 100 41019 start sending
+Time: 40829 Packet: 447: 7 8 100 40729 finish sending: successfully transmitted
+Time: 41062 Packet: 415: 5 7 100 41062 start sending
+Time: 41118 Packet: 419: 9 1 100 41118 start sending: collision
+Time: 41119 Packet: 400: 0 4 100 41019 finish sending: failed
+Time: 41218 Packet: 419: 9 1 100 41118 finish sending: failed
+Time: 41274 Packet: 382: 2 3 100 41274 start sending
+Time: 41162 Packet: 415: 5 7 100 41062 finish sending: failed
+Time: 41314 Packet: 478: 8 6 100 41314 start sending
+Time: 41346 Packet: 443: 3 9 100 41346 start sending: collision
+Time: 41374 Packet: 382: 2 3 100 41274 finish sending: failed
+Time: 41446 Packet: 443: 3 9 100 41346 finish sending: failed
+Time: 41518 Packet: 453: 3 5 100 41518 start sending
+Time: 41414 Packet: 478: 8 6 100 41314 finish sending: failed
+Time: 41520 Packet: 394: 4 9 100 41520 start sending
+Time: 41538 Packet: 488: 8 1 100 41538 start sending: collision
+Time: 41603 Packet: 410: 0 5 100 41603 start sending: collision
+Time: 41618 Packet: 453: 3 5 100 41518 finish sending: failed
+Time: 41638 Packet: 488: 8 1 100 41538 finish sending: failed
+Time: 41639 Packet: 456: 6 8 100 41639 start sending
+Time: 41620 Packet: 394: 4 9 100 41520 finish sending: failed
+Time: 41739 Packet: 456: 6 8 100 41639 finish sending: successfully transmitted
+Time: 41961 Packet: 391: 1 2 100 41961 start sending
+Time: 41703 Packet: 410: 0 5 100 41603 finish sending: failed
+Time: 42026 Packet: 429: 9 8 100 42026 start sending
+Time: 42061 Packet: 391: 1 2 100 41961 finish sending: successfully transmitted
+Time: 42093 Packet: 392: 2 7 100 42093 start sending
+Time: 42126 Packet: 429: 9 8 100 42026 finish sending: successfully transmitted
+Time: 42191 Packet: 439: 9 1 100 42191 start sending
+Time: 42193 Packet: 392: 2 7 100 42093 finish sending: successfully transmitted
+Time: 42240 Packet: 425: 5 4 100 42240 start sending
+Time: 42291 Packet: 439: 9 1 100 42191 finish sending: successfully transmitted
+Time: 42416 Packet: 463: 3 1 100 42416 start sending
+Time: 42340 Packet: 425: 5 4 100 42240 finish sending: successfully transmitted
+Time: 42430 Packet: 466: 6 9 100 42430 start sending
+Time: 42516 Packet: 463: 3 1 100 42416 finish sending: successfully transmitted
+Time: 42543 Packet: 457: 7 8 100 42543 start sending
+Time: 42530 Packet: 466: 6 9 100 42430 finish sending: successfully transmitted
+Time: 42600 Packet: 498: 8 9 100 42600 start sending
+Time: 42643 Packet: 457: 7 8 100 42543 finish sending: successfully transmitted
+Time: 42771 Packet: 476: 6 7 100 42771 start sending
+Time: 42700 Packet: 498: 8 9 100 42600 finish sending: successfully transmitted
+Time: 42909 Packet: 404: 4 0 100 42909 start sending
+Time: 42871 Packet: 476: 6 7 100 42771 finish sending: successfully transmitted
+Time: 43036 Packet: 401: 1 3 100 43036 start sending
+Time: 43009 Packet: 404: 4 0 100 42909 finish sending: successfully transmitted
+Time: 43227 Packet: 473: 3 7 100 43227 start sending
+Time: 43136 Packet: 401: 1 3 100 43036 finish sending: successfully transmitted
+Time: 43242 Packet: 414: 4 9 100 43242 start sending
+Time: 43327 Packet: 473: 3 7 100 43227 finish sending: successfully transmitted
+Time: 43329 Packet: 486: 6 0 100 43329 start sending
+Time: 43342 Packet: 414: 4 9 100 43242 finish sending: successfully transmitted
+Time: 43423 Packet: 402: 2 4 100 43423 start sending
+Time: 43426 Packet: 420: 0 7 100 43426 start sending: collision
+Time: 43429 Packet: 486: 6 0 100 43329 finish sending: failed
+Time: 43526 Packet: 420: 0 7 100 43426 finish sending: failed
+Time: 43579 Packet: 411: 1 0 100 43579 start sending
+Time: 43523 Packet: 402: 2 4 100 43423 finish sending: failed
+Time: 43646 Packet: 496: 6 2 100 43646 start sending
+Time: 43658 Packet: 467: 7 5 100 43658 start sending: collision
+Time: 43679 Packet: 411: 1 0 100 43579 finish sending: failed
+Time: 43754 Packet: 424: 4 0 100 43754 start sending: collision
+Time: 43746 Packet: 496: 6 2 100 43646 finish sending: failed
+Time: 43854 Packet: 424: 4 0 100 43754 finish sending: failed
+Time: 44007 Packet: 508: 8 1 100 44007 start sending
+Time: 43758 Packet: 467: 7 5 100 43658 finish sending: failed
+Time: 44021 Packet: 435: 5 4 100 44021 start sending
+Time: 44048 Packet: 449: 9 4 100 44048 start sending: collision
+Time: 44107 Packet: 508: 8 1 100 44007 finish sending: failed
+Time: 44148 Packet: 449: 9 4 100 44048 finish sending: failed
+Time: 44184 Packet: 421: 1 9 100 44184 start sending
+Time: 44121 Packet: 435: 5 4 100 44021 finish sending: failed
+Time: 44310 Packet: 434: 4 9 100 44310 start sending
+Time: 44284 Packet: 421: 1 9 100 44184 finish sending: successfully transmitted
+Time: 44660 Packet: 477: 7 4 100 44660 start sending
+Time: 44410 Packet: 434: 4 9 100 44310 finish sending: successfully transmitted
+Time: 44689 Packet: 412: 2 3 100 44689 start sending
+Time: 44748 Packet: 518: 8 9 100 44748 start sending: collision
+Time: 44760 Packet: 477: 7 4 100 44660 finish sending: failed
+Time: 44848 Packet: 518: 8 9 100 44748 finish sending: failed
+Time: 44849 Packet: 459: 9 7 100 44849 start sending
+Time: 44789 Packet: 412: 2 3 100 44689 finish sending: failed
+Time: 44916 Packet: 483: 3 0 100 44916 start sending
+Time: 44949 Packet: 459: 9 7 100 44849 finish sending: successfully transmitted
+Time: 45003 Packet: 430: 0 8 100 45003 start sending
+Time: 45016 Packet: 483: 3 0 100 44916 finish sending: successfully transmitted
+Time: 45090 Packet: 431: 1 6 100 45090 start sending
+Time: 45103 Packet: 430: 0 8 100 45003 finish sending: successfully transmitted
+Time: 45120 Packet: 506: 6 3 100 45120 start sending
+Time: 45128 Packet: 444: 4 7 100 45128 start sending: collision
+Time: 45156 Packet: 422: 2 0 100 45156 start sending: collision
+Time: 45190 Packet: 431: 1 6 100 45090 finish sending: failed
+Time: 45212 Packet: 445: 5 0 100 45212 start sending: collision
+Time: 45220 Packet: 506: 6 3 100 45120 finish sending: failed
+Time: 45256 Packet: 422: 2 0 100 45156 finish sending: failed
+Time: 45261 Packet: 469: 9 5 100 45261 start sending
+Time: 45228 Packet: 444: 4 7 100 45128 finish sending: failed
+Time: 45361 Packet: 469: 9 5 100 45261 finish sending: successfully transmitted
+Time: 45685 Packet: 479: 9 7 100 45685 start sending
+Time: 45312 Packet: 445: 5 0 100 45212 finish sending: failed
+Time: 45755 Packet: 432: 2 5 100 45755 start sending
+Time: 45762 Packet: 528: 8 7 100 45762 start sending: collision
+Time: 45785 Packet: 479: 9 7 100 45685 finish sending: failed
+Time: 45862 Packet: 528: 8 7 100 45762 finish sending: failed
+Time: 45960 Packet: 493: 3 0 100 45960 start sending
+Time: 45855 Packet: 432: 2 5 100 45755 finish sending: failed
+Time: 45985 Packet: 487: 7 5 100 45985 start sending
+Time: 46060 Packet: 493: 3 0 100 45960 finish sending: successfully transmitted
+Time: 46088 Packet: 516: 6 2 100 46088 start sending
+Time: 46085 Packet: 487: 7 5 100 45985 finish sending: successfully transmitted
+Time: 46159 Packet: 455: 5 0 100 46159 start sending
+Time: 46188 Packet: 516: 6 2 100 46088 finish sending: successfully transmitted
+Time: 46348 Packet: 441: 1 9 100 46348 start sending
+Time: 46259 Packet: 455: 5 0 100 46159 finish sending: successfully transmitted
+Time: 46436 Packet: 440: 0 8 100 46436 start sending
+Time: 46448 Packet: 441: 1 9 100 46348 finish sending: successfully transmitted
+Time: 46730 Packet: 454: 4 0 100 46730 start sending
+Time: 46536 Packet: 440: 0 8 100 46436 finish sending: successfully transmitted
+Time: 46787 Packet: 489: 9 7 100 46787 start sending
+Time: 46830 Packet: 454: 4 0 100 46730 finish sending: successfully transmitted
+Time: 46991 Packet: 538: 8 6 100 46991 start sending
+Time: 46887 Packet: 489: 9 7 100 46787 finish sending: successfully transmitted
+Time: 47003 Packet: 499: 9 2 100 47003 start sending
+Time: 47091 Packet: 538: 8 6 100 46991 finish sending: successfully transmitted
+Time: 47151 Packet: 451: 1 3 100 47151 start sending
+Time: 47103 Packet: 499: 9 2 100 47003 finish sending: successfully transmitted
+Time: 47337 Packet: 526: 6 9 100 47337 start sending
+Time: 47251 Packet: 451: 1 3 100 47151 finish sending: successfully transmitted
+Time: 47442 Packet: 442: 2 8 100 47442 start sending
+Time: 47437 Packet: 526: 6 9 100 47337 finish sending: successfully transmitted
+Time: 47470 Packet: 450: 0 5 100 47470 start sending
+Time: 47501 Packet: 503: 3 0 100 47501 start sending: collision
+Time: 47527 Packet: 465: 5 0 100 47527 start sending: collision
+Time: 47542 Packet: 442: 2 8 100 47442 finish sending: failed
+Time: 47601 Packet: 503: 3 0 100 47501 finish sending: failed
+Time: 47628 Packet: 497: 7 4 100 47628 start sending
+Time: 47570 Packet: 450: 0 5 100 47470 finish sending: failed
+Time: 47662 Packet: 513: 3 7 100 47662 start sending: collision
+Time: 47627 Packet: 465: 5 0 100 47527 finish sending: failed
+Time: 47702 Packet: 475: 5 1 100 47702 start sending: collision
+Time: 47707 Packet: 548: 8 1 100 47707 start sending: collision
+Time: 47728 Packet: 497: 7 4 100 47628 finish sending: failed
+Time: 47802 Packet: 475: 5 1 100 47702 finish sending: failed
+Time: 47840 Packet: 461: 1 3 100 47840 start sending
+Time: 47762 Packet: 513: 3 7 100 47662 finish sending: failed
+Time: 47932 Packet: 464: 4 9 100 47932 start sending: collision
+Time: 47807 Packet: 548: 8 1 100 47707 finish sending: failed
+Time: 48032 Packet: 464: 4 9 100 47932 finish sending: failed
+Time: 48053 Packet: 485: 5 3 100 48053 start sending
+Time: 47940 Packet: 461: 1 3 100 47840 finish sending: failed
+Time: 48326 Packet: 523: 3 1 100 48326 start sending
+Time: 48153 Packet: 485: 5 3 100 48053 finish sending: successfully transmitted
+Time: 48337 Packet: 460: 0 8 100 48337 start sending
+Time: 48342 Packet: 536: 6 8 100 48342 start sending: collision
+Time: 48426 Packet: 523: 3 1 100 48326 finish sending: failed
+Time: 48442 Packet: 536: 6 8 100 48342 finish sending: failed
+Time: 48462 Packet: 452: 2 9 100 48462 start sending
+Time: 48437 Packet: 460: 0 8 100 48337 finish sending: failed
+Time: 48576 Packet: 507: 7 8 100 48576 start sending
+Time: 48562 Packet: 452: 2 9 100 48462 finish sending: successfully transmitted
+Time: 48633 Packet: 509: 9 4 100 48633 start sending
+Time: 48640 Packet: 495: 5 9 100 48640 start sending: collision
+Time: 48676 Packet: 507: 7 8 100 48576 finish sending: failed
+Time: 48740 Packet: 495: 5 9 100 48640 finish sending: failed
+Time: 49021 Packet: 474: 4 5 100 49021 start sending
+Time: 48733 Packet: 509: 9 4 100 48633 finish sending: failed
+Time: 49393 Packet: 462: 2 8 100 49393 start sending
+Time: 49121 Packet: 474: 4 5 100 49021 finish sending: successfully transmitted
+Time: 49463 Packet: 470: 0 1 100 49463 start sending
+Time: 49465 Packet: 471: 1 8 100 49465 start sending: collision
+Time: 49493 Packet: 462: 2 8 100 49393 finish sending: failed
+Time: 49515 Packet: 558: 8 0 100 49515 start sending: collision
+Time: 49563 Packet: 470: 0 1 100 49463 finish sending: failed
+Time: 49615 Packet: 558: 8 0 100 49515 finish sending: failed
+Time: 49745 Packet: 484: 4 9 100 49745 start sending
+Time: 49565 Packet: 471: 1 8 100 49465 finish sending: failed
+Time: 49857 Packet: 533: 3 8 100 49857 start sending
+Time: 49845 Packet: 484: 4 9 100 49745 finish sending: successfully transmitted
+Time: 49892 Packet: 517: 7 5 100 49892 start sending
+Time: 49957 Packet: 533: 3 8 100 49857 finish sending: successfully transmitted
+Time: 50102 Packet: 568: 8 6 100 50102 start sending
+Time: 49992 Packet: 517: 7 5 100 49892 finish sending: successfully transmitted
+Time: 50110 Packet: 481: 1 3 100 50110 start sending
+Time: 50184 Packet: 546: 6 7 100 50184 start sending: collision
+Time: 50202 Packet: 568: 8 6 100 50102 finish sending: failed
+Time: 50229 Packet: 472: 2 7 100 50229 start sending: collision
+Time: 50210 Packet: 481: 1 3 100 50110 finish sending: failed
+Time: 50329 Packet: 472: 2 7 100 50229 finish sending: failed
+Time: 50333 Packet: 519: 9 1 100 50333 start sending
+Time: 50284 Packet: 546: 6 7 100 50184 finish sending: failed
+Time: 50377 Packet: 505: 5 6 100 50377 start sending
+Time: 50433 Packet: 519: 9 1 100 50333 finish sending: successfully transmitted
+Time: 50472 Packet: 480: 0 4 100 50472 start sending
+Time: 50477 Packet: 505: 5 6 100 50377 finish sending: successfully transmitted
+Time: 50529 Packet: 529: 9 4 100 50529 start sending
+Time: 50572 Packet: 480: 0 4 100 50472 finish sending: successfully transmitted
+Time: 51006 Packet: 527: 7 8 100 51006 start sending
+Time: 50629 Packet: 529: 9 4 100 50529 finish sending: successfully transmitted
+Time: 51042 Packet: 556: 6 2 100 51042 start sending
+Time: 51106 Packet: 527: 7 8 100 51006 finish sending: successfully transmitted
+Time: 51190 Packet: 491: 1 5 100 51190 start sending
+Time: 51142 Packet: 556: 6 2 100 51042 finish sending: successfully transmitted
+Time: 51214 Packet: 490: 0 3 100 51214 start sending
+Time: 51290 Packet: 491: 1 5 100 51190 finish sending: successfully transmitted
+Time: 51318 Packet: 566: 6 8 100 51318 start sending
+Time: 51314 Packet: 490: 0 3 100 51214 finish sending: successfully transmitted
+Time: 51498 Packet: 543: 3 4 100 51498 start sending
+Time: 51418 Packet: 566: 6 8 100 51318 finish sending: successfully transmitted
+Time: 51591 Packet: 494: 4 1 100 51591 start sending
+Time: 51598 Packet: 543: 3 4 100 51498 finish sending: successfully transmitted
+Time: 51651 Packet: 576: 6 5 100 51651 start sending
+Time: 51691 Packet: 494: 4 1 100 51591 finish sending: successfully transmitted
+Time: 51921 Packet: 515: 5 8 100 51921 start sending
+Time: 51751 Packet: 576: 6 5 100 51651 finish sending: successfully transmitted
+Time: 51939 Packet: 578: 8 2 100 51939 start sending
+Time: 52021 Packet: 515: 5 8 100 51921 finish sending: successfully transmitted
+Time: 52039 Packet: 553: 3 5 100 52039 start sending
+Time: 52039 Packet: 578: 8 2 100 51939 finish sending: successfully transmitted
+Time: 52107 Packet: 482: 2 3 100 52107 start sending
+Time: 52139 Packet: 553: 3 5 100 52039 finish sending: successfully transmitted
+Time: 52199 Packet: 537: 7 2 100 52199 start sending
+Time: 52207 Packet: 482: 2 3 100 52107 finish sending: successfully transmitted
+Time: 52283 Packet: 500: 0 6 100 52283 start sending
+Time: 52299 Packet: 537: 7 2 100 52199 finish sending: successfully transmitted
+Time: 52304 Packet: 539: 9 4 100 52304 start sending
+Time: 52363 Packet: 501: 1 2 100 52363 start sending: collision
+Time: 52383 Packet: 500: 0 6 100 52283 finish sending: failed
+Time: 52462 Packet: 525: 5 8 100 52462 start sending: collision
+Time: 52404 Packet: 539: 9 4 100 52304 finish sending: failed
+Time: 52483 Packet: 588: 8 3 100 52483 start sending: collision
+Time: 52463 Packet: 501: 1 2 100 52363 finish sending: failed
+Time: 52499 Packet: 511: 1 2 100 52499 start sending: collision
+Time: 52513 Packet: 492: 2 6 100 52513 start sending: collision
+Time: 52562 Packet: 525: 5 8 100 52462 finish sending: failed
+Time: 52568 Packet: 586: 6 0 100 52568 start sending: collision
+Time: 52583 Packet: 588: 8 3 100 52483 finish sending: failed
+Time: 52613 Packet: 492: 2 6 100 52513 finish sending: failed
+Time: 52686 Packet: 504: 4 6 100 52686 start sending
+Time: 52599 Packet: 511: 1 2 100 52499 finish sending: failed
+Time: 52729 Packet: 521: 1 5 100 52729 start sending: collision
+Time: 52668 Packet: 586: 6 0 100 52568 finish sending: failed
+Time: 52733 Packet: 563: 3 7 100 52733 start sending: collision
+Time: 52786 Packet: 504: 4 6 100 52686 finish sending: failed
+Time: 52833 Packet: 563: 3 7 100 52733 finish sending: failed
+Time: 52857 Packet: 547: 7 6 100 52857 start sending
+Time: 52829 Packet: 521: 1 5 100 52729 finish sending: failed
+Time: 52956 Packet: 531: 1 0 100 52956 start sending
+Time: 52957 Packet: 547: 7 6 100 52857 finish sending: successfully transmitted
+Time: 52993 Packet: 535: 5 3 100 52993 start sending
+Time: 52999 Packet: 514: 4 2 100 52999 start sending: collision
+Time: 53039 Packet: 557: 7 4 100 53039 start sending: collision
+Time: 53054 Packet: 596: 6 8 100 53054 start sending: collision
+Time: 53056 Packet: 531: 1 0 100 52956 finish sending: failed
+Time: 53099 Packet: 514: 4 2 100 52999 finish sending: failed
+Time: 53154 Packet: 596: 6 8 100 53054 finish sending: failed
+Time: 53308 Packet: 598: 8 3 100 53308 start sending
+Time: 53093 Packet: 535: 5 3 100 52993 finish sending: failed
+Time: 53317 Packet: 549: 9 1 100 53317 start sending: collision
+Time: 53139 Packet: 557: 7 4 100 53039 finish sending: failed
+Time: 53378 Packet: 545: 5 7 100 53378 start sending: collision
+Time: 53408 Packet: 598: 8 3 100 53308 finish sending: failed
+Time: 53478 Packet: 545: 5 7 100 53378 finish sending: failed
+Time: 53486 Packet: 510: 0 4 100 53486 start sending
+Time: 53417 Packet: 549: 9 1 100 53317 finish sending: failed
+Time: 53497 Packet: 608: 8 9 100 53497 start sending
+Time: 53569 Packet: 502: 2 3 100 53569 start sending: collision
+Time: 53586 Packet: 510: 0 4 100 53486 finish sending: failed
+Time: 53601 Packet: 524: 4 7 100 53601 start sending: collision
+Time: 53597 Packet: 608: 8 9 100 53497 finish sending: failed
+Time: 53636 Packet: 520: 0 2 100 53636 start sending: collision
+Time: 53669 Packet: 502: 2 3 100 53569 finish sending: failed
+Time: 53675 Packet: 512: 2 3 100 53675 start sending: collision
+Time: 53701 Packet: 524: 4 7 100 53601 finish sending: failed
+Time: 53775 Packet: 512: 2 3 100 53675 finish sending: failed
+Time: 54055 Packet: 530: 0 5 100 54055 start sending
+Time: 53736 Packet: 520: 0 2 100 53636 finish sending: failed
+Time: 54124 Packet: 606: 6 9 100 54124 start sending
+Time: 54155 Packet: 530: 0 5 100 54055 finish sending: successfully transmitted
+Time: 54200 Packet: 541: 1 2 100 54200 start sending
+Time: 54224 Packet: 606: 6 9 100 54124 finish sending: successfully transmitted
+Time: 54391 Packet: 559: 9 4 100 54391 start sending
+Time: 54300 Packet: 541: 1 2 100 54200 finish sending: successfully transmitted
+Time: 54541 Packet: 522: 2 4 100 54541 start sending
+Time: 54491 Packet: 559: 9 4 100 54391 finish sending: successfully transmitted
+Time: 54555 Packet: 573: 3 5 100 54555 start sending
+Time: 54641 Packet: 522: 2 4 100 54541 finish sending: successfully transmitted
+Time: 54745 Packet: 567: 7 2 100 54745 start sending
+Time: 54655 Packet: 573: 3 5 100 54555 finish sending: successfully transmitted
+Time: 54843 Packet: 583: 3 6 100 54843 start sending
+Time: 54845 Packet: 567: 7 2 100 54745 finish sending: successfully transmitted
+Time: 54853 Packet: 618: 8 0 100 54853 start sending
+Time: 54943 Packet: 583: 3 6 100 54843 finish sending: successfully transmitted
+Time: 55127 Packet: 628: 8 1 100 55127 start sending
+Time: 54953 Packet: 618: 8 0 100 54853 finish sending: successfully transmitted
+Time: 55128 Packet: 555: 5 3 100 55128 start sending
+Time: 55227 Packet: 628: 8 1 100 55127 finish sending: successfully transmitted
+Time: 55245 Packet: 534: 4 7 100 55245 start sending
+Time: 55228 Packet: 555: 5 3 100 55128 finish sending: successfully transmitted
+Time: 55644 Packet: 577: 7 6 100 55644 start sending
+Time: 55345 Packet: 534: 4 7 100 55245 finish sending: successfully transmitted
+Time: 55705 Packet: 540: 0 7 100 55705 start sending
+Time: 55726 Packet: 551: 1 4 100 55726 start sending: collision
+Time: 55744 Packet: 577: 7 6 100 55644 finish sending: failed
+Time: 55750 Packet: 593: 3 9 100 55750 start sending: collision
+Time: 55805 Packet: 540: 0 7 100 55705 finish sending: failed
+Time: 55850 Packet: 593: 3 9 100 55750 finish sending: failed
+Time: 55859 Packet: 616: 6 0 100 55859 start sending
+Time: 55826 Packet: 551: 1 4 100 55726 finish sending: failed
+Time: 55891 Packet: 638: 8 1 100 55891 start sending
+Time: 55959 Packet: 616: 6 0 100 55859 finish sending: successfully transmitted
+Time: 56090 Packet: 569: 9 7 100 56090 start sending
+Time: 55991 Packet: 638: 8 1 100 55891 finish sending: successfully transmitted
+Time: 56192 Packet: 532: 2 5 100 56192 start sending
+Time: 56190 Packet: 569: 9 7 100 56090 finish sending: successfully transmitted
+Time: 56401 Packet: 648: 8 3 100 56401 start sending
+Time: 56292 Packet: 532: 2 5 100 56192 finish sending: successfully transmitted
+Time: 56563 Packet: 544: 4 0 100 56563 start sending
+Time: 56501 Packet: 648: 8 3 100 56401 finish sending: successfully transmitted
+Time: 56812 Packet: 565: 5 3 100 56812 start sending
+Time: 56663 Packet: 544: 4 0 100 56563 finish sending: successfully transmitted
+Time: 57050 Packet: 579: 9 1 100 57050 start sending
+Time: 56912 Packet: 565: 5 3 100 56812 finish sending: successfully transmitted
+Time: 57145 Packet: 603: 3 8 100 57145 start sending
+Time: 57150 Packet: 579: 9 1 100 57050 finish sending: successfully transmitted
+Time: 57180 Packet: 626: 6 0 100 57180 start sending
+Time: 57240 Packet: 550: 0 8 100 57240 start sending: collision
+Time: 57245 Packet: 603: 3 8 100 57145 finish sending: failed
+Time: 57340 Packet: 550: 0 8 100 57240 finish sending: failed
+Time: 57364 Packet: 554: 4 6 100 57364 start sending
+Time: 57280 Packet: 626: 6 0 100 57180 finish sending: failed
+Time: 57379 Packet: 561: 1 5 100 57379 start sending
+Time: 57410 Packet: 587: 7 6 100 57410 start sending: collision
+Time: 57412 Packet: 589: 9 6 100 57412 start sending: collision
+Time: 57420 Packet: 658: 8 9 100 57420 start sending: collision
+Time: 57464 Packet: 554: 4 6 100 57364 finish sending: failed
+Time: 57510 Packet: 587: 7 6 100 57410 finish sending: failed
+Time: 57520 Packet: 658: 8 9 100 57420 finish sending: failed
+Time: 57613 Packet: 542: 2 8 100 57613 start sending
+Time: 57479 Packet: 561: 1 5 100 57379 finish sending: failed
+Time: 57713 Packet: 542: 2 8 100 57613 finish sending: successfully transmitted
+Time: 57799 Packet: 560: 0 8 100 57799 start sending
+Time: 57512 Packet: 589: 9 6 100 57412 finish sending: failed
+Time: 57917 Packet: 599: 9 8 100 57917 start sending
+Time: 57899 Packet: 560: 0 8 100 57799 finish sending: successfully transmitted
+Time: 57993 Packet: 564: 4 5 100 57993 start sending
+Time: 58017 Packet: 599: 9 8 100 57917 finish sending: successfully transmitted
+Time: 58041 Packet: 636: 6 4 100 58041 start sending
+Time: 58093 Packet: 564: 4 5 100 57993 finish sending: successfully transmitted
+Time: 58096 Packet: 575: 5 9 100 58096 start sending
+Time: 58141 Packet: 636: 6 4 100 58041 finish sending: successfully transmitted
+Time: 58406 Packet: 609: 9 4 100 58406 start sending
+Time: 58196 Packet: 575: 5 9 100 58096 finish sending: successfully transmitted
+Time: 58491 Packet: 668: 8 9 100 58491 start sending
+Time: 58506 Packet: 609: 9 4 100 58406 finish sending: successfully transmitted
+Time: 58508 Packet: 613: 3 5 100 58508 start sending
+Time: 58591 Packet: 668: 8 9 100 58491 finish sending: successfully transmitted
+Time: 58637 Packet: 597: 7 3 100 58637 start sending
+Time: 58608 Packet: 613: 3 5 100 58508 finish sending: successfully transmitted
+Time: 58910 Packet: 571: 1 0 100 58910 start sending
+Time: 58737 Packet: 597: 7 3 100 58637 finish sending: successfully transmitted
+Time: 59061 Packet: 552: 2 4 100 59061 start sending
+Time: 59010 Packet: 571: 1 0 100 58910 finish sending: successfully transmitted
+Time: 59111 Packet: 570: 0 7 100 59111 start sending
+Time: 59161 Packet: 552: 2 4 100 59061 finish sending: successfully transmitted
+Time: 59524 Packet: 607: 7 6 100 59524 start sending
+Time: 59211 Packet: 570: 0 7 100 59111 finish sending: successfully transmitted
+Time: 59567 Packet: 678: 8 4 100 59567 start sending
+Time: 59586 Packet: 585: 5 0 100 59586 start sending: collision
+Time: 59624 Packet: 607: 7 6 100 59524 finish sending: failed
+Time: 59660 Packet: 580: 0 1 100 59660 start sending: collision
+Time: 59667 Packet: 678: 8 4 100 59567 finish sending: failed
+Time: 59723 Packet: 574: 4 1 100 59723 start sending: collision
+Time: 59686 Packet: 585: 5 0 100 59586 finish sending: failed
+Time: 59823 Packet: 574: 4 1 100 59723 finish sending: failed
+Time: 59864 Packet: 646: 6 5 100 59864 start sending
+Time: 59760 Packet: 580: 0 1 100 59660 finish sending: failed
+Time: 60085 Packet: 619: 9 1 100 60085 start sending
+Time: 59964 Packet: 646: 6 5 100 59864 finish sending: successfully transmitted
+Time: 60223 Packet: 623: 3 8 100 60223 start sending
+Time: 60185 Packet: 619: 9 1 100 60085 finish sending: successfully transmitted
+Time: 60265 Packet: 617: 7 0 100 60265 start sending
+Time: 60306 Packet: 656: 6 5 100 60306 start sending: collision
+Time: 60323 Packet: 623: 3 8 100 60223 finish sending: failed
+Time: 60370 Packet: 629: 9 0 100 60370 start sending: collision
+Time: 60365 Packet: 617: 7 0 100 60265 finish sending: failed
+Time: 60469 Packet: 595: 5 3 100 60469 start sending: collision
+Time: 60406 Packet: 656: 6 5 100 60306 finish sending: failed
+Time: 60504 Packet: 562: 2 6 100 60504 start sending: collision
+Time: 60470 Packet: 629: 9 0 100 60370 finish sending: failed
+Time: 60604 Packet: 562: 2 6 100 60504 finish sending: failed
+Time: 60719 Packet: 581: 1 7 100 60719 start sending
+Time: 60569 Packet: 595: 5 3 100 60469 finish sending: failed
+Time: 60743 Packet: 639: 9 3 100 60743 start sending
+Time: 60819 Packet: 581: 1 7 100 60719 finish sending: successfully transmitted
+Time: 60847 Packet: 633: 3 1 100 60847 start sending
+Time: 60843 Packet: 639: 9 3 100 60743 finish sending: successfully transmitted
+Time: 60885 Packet: 590: 0 3 100 60885 start sending
+Time: 60947 Packet: 633: 3 1 100 60847 finish sending: successfully transmitted
+Time: 61098 Packet: 605: 5 8 100 61098 start sending
+Time: 60985 Packet: 590: 0 3 100 60885 finish sending: successfully transmitted
+Time: 61110 Packet: 600: 0 1 100 61110 start sending
+Time: 61198 Packet: 605: 5 8 100 61098 finish sending: successfully transmitted
+Time: 61236 Packet: 688: 8 5 100 61236 start sending
+Time: 61210 Packet: 600: 0 1 100 61110 finish sending: successfully transmitted
+Time: 61345 Packet: 666: 6 1 100 61345 start sending
+Time: 61336 Packet: 688: 8 5 100 61236 finish sending: successfully transmitted
+Time: 61360 Packet: 584: 4 1 100 61360 start sending
+Time: 61422 Packet: 649: 9 2 100 61422 start sending: collision
+Time: 61445 Packet: 666: 6 1 100 61345 finish sending: failed
+Time: 61522 Packet: 649: 9 2 100 61422 finish sending: failed
+Time: 61547 Packet: 659: 9 4 100 61547 start sending
+Time: 61460 Packet: 584: 4 1 100 61360 finish sending: failed
+Time: 61614 Packet: 643: 3 5 100 61614 start sending
+Time: 61647 Packet: 659: 9 4 100 61547 finish sending: successfully transmitted
+Time: 61718 Packet: 627: 7 3 100 61718 start sending
+Time: 61714 Packet: 643: 3 5 100 61614 finish sending: successfully transmitted
+Time: 61772 Packet: 572: 2 6 100 61772 start sending
+Time: 61818 Packet: 627: 7 3 100 61718 finish sending: successfully transmitted
+Time: 61844 Packet: 637: 7 3 100 61844 start sending
+Time: 61872 Packet: 572: 2 6 100 61772 finish sending: successfully transmitted
+Time: 61889 Packet: 653: 3 5 100 61889 start sending
+Time: 61944 Packet: 637: 7 3 100 61844 finish sending: successfully transmitted
+Time: 61992 Packet: 615: 5 6 100 61992 start sending
+Time: 61989 Packet: 653: 3 5 100 61889 finish sending: successfully transmitted
+Time: 62067 Packet: 663: 3 8 100 62067 start sending
+Time: 62092 Packet: 676: 6 8 100 62092 start sending: collision
+Time: 62092 Packet: 615: 5 6 100 61992 finish sending: failed
+Time: 62155 Packet: 594: 4 9 100 62155 start sending: collision
+Time: 62159 Packet: 610: 0 1 100 62159 start sending: collision
+Time: 62167 Packet: 663: 3 8 100 62067 finish sending: failed
+Time: 62191 Packet: 698: 8 5 100 62191 start sending: collision
+Time: 62192 Packet: 676: 6 8 100 62092 finish sending: failed
+Time: 62259 Packet: 610: 0 1 100 62159 finish sending: failed
+Time: 62449 Packet: 669: 9 7 100 62449 start sending
+Time: 62255 Packet: 594: 4 9 100 62155 finish sending: failed
+Time: 62549 Packet: 669: 9 7 100 62449 finish sending: successfully transmitted
+Time: 62592 Packet: 591: 1 8 100 62592 start sending
+Time: 62291 Packet: 698: 8 5 100 62191 finish sending: failed
+Time: 62605 Packet: 582: 2 6 100 62605 start sending
+Time: 62617 Packet: 604: 4 5 100 62617 start sending: collision
+Time: 62692 Packet: 591: 1 8 100 62592 finish sending: failed
+Time: 62717 Packet: 604: 4 5 100 62617 finish sending: failed
+Time: 62750 Packet: 620: 0 7 100 62750 start sending
+Time: 62705 Packet: 582: 2 6 100 62605 finish sending: failed
+Time: 62931 Packet: 708: 8 4 100 62931 start sending
+Time: 62850 Packet: 620: 0 7 100 62750 finish sending: successfully transmitted
+Time: 63005 Packet: 647: 7 8 100 63005 start sending
+Time: 63031 Packet: 708: 8 4 100 62931 finish sending: successfully transmitted
+Time: 63094 Packet: 679: 9 5 100 63094 start sending
+Time: 63105 Packet: 647: 7 8 100 63005 finish sending: successfully transmitted
+Time: 63164 Packet: 718: 8 2 100 63164 start sending
+Time: 63194 Packet: 679: 9 5 100 63094 finish sending: successfully transmitted
+Time: 63235 Packet: 625: 5 0 100 63235 start sending
+Time: 63264 Packet: 718: 8 2 100 63164 finish sending: successfully transmitted
+Time: 63267 Packet: 601: 1 5 100 63267 start sending
+Time: 63335 Packet: 625: 5 0 100 63235 finish sending: successfully transmitted
+Time: 63339 Packet: 673: 3 2 100 63339 start sending
+Time: 63367 Packet: 601: 1 5 100 63267 finish sending: successfully transmitted
+Time: 63467 Packet: 614: 4 8 100 63467 start sending
+Time: 63439 Packet: 673: 3 2 100 63339 finish sending: successfully transmitted
+Time: 63480 Packet: 657: 7 0 100 63480 start sending
+Time: 63567 Packet: 614: 4 8 100 63467 finish sending: successfully transmitted
+Time: 63668 Packet: 630: 0 3 100 63668 start sending
+Time: 63580 Packet: 657: 7 0 100 63480 finish sending: successfully transmitted
+Time: 63757 Packet: 689: 9 7 100 63757 start sending
+Time: 63768 Packet: 630: 0 3 100 63668 finish sending: successfully transmitted
+Time: 63795 Packet: 667: 7 9 100 63795 start sending
+Time: 63846 Packet: 592: 2 9 100 63846 start sending: collision
+Time: 63857 Packet: 689: 9 7 100 63757 finish sending: failed
+Time: 63946 Packet: 592: 2 9 100 63846 finish sending: failed
+Time: 63959 Packet: 686: 6 7 100 63959 start sending
+Time: 63895 Packet: 667: 7 9 100 63795 finish sending: failed
+Time: 64074 Packet: 683: 3 7 100 64074 start sending
+Time: 64059 Packet: 686: 6 7 100 63959 finish sending: successfully transmitted
+Time: 64170 Packet: 699: 9 4 100 64170 start sending
+Time: 64174 Packet: 683: 3 7 100 64074 finish sending: successfully transmitted
+Time: 64175 Packet: 696: 6 9 100 64175 start sending
+Time: 64270 Packet: 699: 9 4 100 64170 finish sending: successfully transmitted
+Time: 64547 Packet: 635: 5 8 100 64547 start sending
+Time: 64275 Packet: 696: 6 9 100 64175 finish sending: successfully transmitted
+Time: 64621 Packet: 640: 0 3 100 64621 start sending
+Time: 64638 Packet: 728: 8 1 100 64638 start sending: collision
+Time: 64647 Packet: 635: 5 8 100 64547 finish sending: failed
+Time: 64738 Packet: 728: 8 1 100 64638 finish sending: failed
+Time: 64957 Packet: 645: 5 6 100 64957 start sending
+Time: 64721 Packet: 640: 0 3 100 64621 finish sending: failed
+Time: 65022 Packet: 611: 1 2 100 65022 start sending
+Time: 65057 Packet: 677: 7 1 100 65057 start sending: collision
+Time: 65057 Packet: 645: 5 6 100 64957 finish sending: failed
+Time: 65072 Packet: 709: 9 4 100 65072 start sending: collision
+Time: 65076 Packet: 693: 3 5 100 65076 start sending: collision
+Time: 65100 Packet: 706: 6 8 100 65100 start sending: collision
+Time: 65113 Packet: 738: 8 1 100 65113 start sending: collision
+Time: 65122 Packet: 611: 1 2 100 65022 finish sending: failed
+Time: 65172 Packet: 709: 9 4 100 65072 finish sending: failed
+Time: 65200 Packet: 706: 6 8 100 65100 finish sending: failed
+Time: 65353 Packet: 624: 4 2 100 65353 start sending
+Time: 65157 Packet: 677: 7 1 100 65057 finish sending: failed
+Time: 65213 Packet: 738: 8 1 100 65113 finish sending: failed
+Time: 65355 Packet: 602: 2 8 100 65355 start sending
+Time: 65176 Packet: 693: 3 5 100 65076 finish sending: failed
+Time: 65443 Packet: 703: 3 9 100 65443 start sending: collision
+Time: 65453 Packet: 624: 4 2 100 65353 finish sending: successfully transmitted
+Time: 65479 Packet: 650: 0 1 100 65479 start sending: collision
+Time: 65455 Packet: 602: 2 8 100 65355 finish sending: failed
+Time: 65518 Packet: 716: 6 1 100 65518 start sending: collision
+Time: 65543 Packet: 703: 3 9 100 65443 finish sending: failed
+Time: 65618 Packet: 716: 6 1 100 65518 finish sending: failed
+Time: 65774 Packet: 660: 0 8 100 65774 start sending
+Time: 65579 Packet: 650: 0 1 100 65479 finish sending: failed
+Time: 65866 Packet: 748: 8 0 100 65866 start sending
+Time: 65874 Packet: 660: 0 8 100 65774 finish sending: successfully transmitted
+Time: 65934 Packet: 655: 5 3 100 65934 start sending
+Time: 65966 Packet: 748: 8 0 100 65866 finish sending: successfully transmitted
+Time: 66129 Packet: 713: 3 0 100 66129 start sending
+Time: 66034 Packet: 655: 5 3 100 65934 finish sending: successfully transmitted
+Time: 66141 Packet: 719: 9 5 100 66141 start sending
+Time: 66229 Packet: 713: 3 0 100 66129 finish sending: successfully transmitted
+Time: 66339 Packet: 634: 4 8 100 66339 start sending
+Time: 66241 Packet: 719: 9 5 100 66141 finish sending: successfully transmitted
+Time: 66401 Packet: 687: 7 9 100 66401 start sending
+Time: 66439 Packet: 634: 4 8 100 66339 finish sending: successfully transmitted
+Time: 66614 Packet: 758: 8 6 100 66614 start sending
+Time: 66501 Packet: 687: 7 9 100 66401 finish sending: successfully transmitted
+Time: 66731 Packet: 621: 1 9 100 66731 start sending
+Time: 66714 Packet: 758: 8 6 100 66614 finish sending: successfully transmitted
+Time: 66792 Packet: 670: 0 2 100 66792 start sending
+Time: 66810 Packet: 729: 9 8 100 66810 start sending: collision
+Time: 66831 Packet: 621: 1 9 100 66731 finish sending: failed
+Time: 66837 Packet: 612: 2 8 100 66837 start sending: collision
+Time: 66888 Packet: 631: 1 3 100 66888 start sending: collision
+Time: 66892 Packet: 670: 0 2 100 66792 finish sending: failed
+Time: 66937 Packet: 612: 2 8 100 66837 finish sending: failed
+Time: 67250 Packet: 726: 6 2 100 67250 start sending
+Time: 66910 Packet: 729: 9 8 100 66810 finish sending: failed
+Time: 67313 Packet: 665: 5 9 100 67313 start sending: collision
+Time: 66988 Packet: 631: 1 3 100 66888 finish sending: failed
+Time: 67413 Packet: 665: 5 9 100 67313 finish sending: failed
+Time: 67420 Packet: 644: 4 2 100 67420 start sending
+Time: 67350 Packet: 726: 6 2 100 67250 finish sending: failed
+Time: 67427 Packet: 736: 6 5 100 67427 start sending
+Time: 67452 Packet: 675: 5 8 100 67452 start sending: collision
+Time: 67520 Packet: 644: 4 2 100 67420 finish sending: failed
+Time: 67552 Packet: 675: 5 8 100 67452 finish sending: failed
+Time: 67594 Packet: 697: 7 2 100 67594 start sending
+Time: 67527 Packet: 736: 6 5 100 67427 finish sending: failed
+Time: 67935 Packet: 768: 8 0 100 67935 start sending
+Time: 67694 Packet: 697: 7 2 100 67594 finish sending: successfully transmitted
+Time: 67982 Packet: 680: 0 8 100 67982 start sending
+Time: 67992 Packet: 723: 3 4 100 67992 start sending: collision
+Time: 68027 Packet: 622: 2 3 100 68027 start sending: collision
+Time: 68035 Packet: 768: 8 0 100 67935 finish sending: failed
+Time: 68092 Packet: 723: 3 4 100 67992 finish sending: failed
+Time: 68119 Packet: 690: 0 1 100 68119 start sending
+Time: 68082 Packet: 680: 0 8 100 67982 finish sending: failed
+Time: 68219 Packet: 690: 0 1 100 68119 finish sending: successfully transmitted
+Time: 68242 Packet: 685: 5 8 100 68242 start sending
+Time: 68127 Packet: 622: 2 3 100 68027 finish sending: failed
+Time: 68603 Packet: 632: 2 7 100 68603 start sending
+Time: 68342 Packet: 685: 5 8 100 68242 finish sending: successfully transmitted
+Time: 68614 Packet: 641: 1 8 100 68614 start sending
+Time: 68623 Packet: 739: 9 5 100 68623 start sending: collision
+Time: 68656 Packet: 695: 5 7 100 68656 start sending: collision
+Time: 68703 Packet: 632: 2 7 100 68603 finish sending: failed
+Time: 68723 Packet: 739: 9 5 100 68623 finish sending: failed
+Time: 68888 Packet: 654: 4 3 100 68888 start sending
+Time: 68714 Packet: 641: 1 8 100 68614 finish sending: failed
+Time: 68935 Packet: 705: 5 3 100 68935 start sending: collision
+Time: 68756 Packet: 695: 5 7 100 68656 finish sending: failed
+Time: 69035 Packet: 705: 5 3 100 68935 finish sending: failed
+Time: 69194 Packet: 778: 8 1 100 69194 start sending
+Time: 68988 Packet: 654: 4 3 100 68888 finish sending: failed
+Time: 69311 Packet: 746: 6 8 100 69311 start sending
+Time: 69294 Packet: 778: 8 1 100 69194 finish sending: successfully transmitted
+Time: 69427 Packet: 707: 7 1 100 69427 start sending
+Time: 69411 Packet: 746: 6 8 100 69311 finish sending: successfully transmitted
+Time: 69513 Packet: 700: 0 1 100 69513 start sending
+Time: 69527 Packet: 707: 7 1 100 69427 finish sending: successfully transmitted
+Time: 69736 Packet: 733: 3 9 100 69736 start sending
+Time: 69613 Packet: 700: 0 1 100 69513 finish sending: successfully transmitted
+Time: 69863 Packet: 664: 4 0 100 69863 start sending
+Time: 69836 Packet: 733: 3 9 100 69736 finish sending: successfully transmitted
+Time: 69867 Packet: 749: 9 7 100 69867 start sending
+Time: 69910 Packet: 788: 8 5 100 69910 start sending: collision
+Time: 69963 Packet: 664: 4 0 100 69863 finish sending: failed
+Time: 70010 Packet: 788: 8 5 100 69910 finish sending: failed
+Time: 70124 Packet: 756: 6 9 100 70124 start sending
+Time: 69967 Packet: 749: 9 7 100 69867 finish sending: failed
+Time: 70276 Packet: 642: 2 5 100 70276 start sending
+Time: 70224 Packet: 756: 6 9 100 70124 finish sending: successfully transmitted
+Time: 70347 Packet: 651: 1 8 100 70347 start sending
+Time: 70376 Packet: 642: 2 5 100 70276 finish sending: successfully transmitted
+Time: 70542 Packet: 759: 9 5 100 70542 start sending
+Time: 70447 Packet: 651: 1 8 100 70347 finish sending: successfully transmitted
+Time: 70649 Packet: 652: 2 8 100 70649 start sending
+Time: 70642 Packet: 759: 9 5 100 70542 finish sending: successfully transmitted
+Time: 70781 Packet: 715: 5 6 100 70781 start sending
+Time: 70749 Packet: 652: 2 8 100 70649 finish sending: successfully transmitted
+Time: 70881 Packet: 710: 0 6 100 70881 start sending
+Time: 70881 Packet: 715: 5 6 100 70781 finish sending: successfully transmitted
+Time: 70906 Packet: 717: 7 5 100 70906 start sending
+Time: 70981 Packet: 710: 0 6 100 70881 finish sending: successfully transmitted
+Time: 71475 Packet: 769: 9 4 100 71475 start sending
+Time: 71006 Packet: 717: 7 5 100 70906 finish sending: successfully transmitted
+Time: 71519 Packet: 798: 8 6 100 71519 start sending
+Time: 71575 Packet: 769: 9 4 100 71475 finish sending: successfully transmitted
+Time: 71582 Packet: 743: 3 8 100 71582 start sending
+Time: 71619 Packet: 798: 8 6 100 71519 finish sending: successfully transmitted
+Time: 71621 Packet: 662: 2 4 100 71621 start sending
+Time: 71658 Packet: 766: 6 8 100 71658 start sending: collision
+Time: 71682 Packet: 743: 3 8 100 71582 finish sending: failed
+Time: 71744 Packet: 674: 4 6 100 71744 start sending: collision
+Time: 71721 Packet: 662: 2 4 100 71621 finish sending: failed
+Time: 71790 Packet: 661: 1 6 100 71790 start sending: collision
+Time: 71758 Packet: 766: 6 8 100 71658 finish sending: failed
+Time: 71802 Packet: 672: 2 5 100 71802 start sending: collision
+Time: 71844 Packet: 674: 4 6 100 71744 finish sending: failed
+Time: 71902 Packet: 672: 2 5 100 71802 finish sending: failed
+Time: 71962 Packet: 720: 0 2 100 71962 start sending
+Time: 71890 Packet: 661: 1 6 100 71790 finish sending: failed
+Time: 72039 Packet: 727: 7 3 100 72039 start sending
+Time: 72062 Packet: 720: 0 2 100 71962 finish sending: successfully transmitted
+Time: 72210 Packet: 671: 1 4 100 72210 start sending
+Time: 72139 Packet: 727: 7 3 100 72039 finish sending: successfully transmitted
+Time: 72284 Packet: 779: 9 5 100 72284 start sending
+Time: 72293 Packet: 725: 5 4 100 72293 start sending: collision
+Time: 72310 Packet: 671: 1 4 100 72210 finish sending: failed
+Time: 72393 Packet: 725: 5 4 100 72293 finish sending: failed
+Time: 72594 Packet: 681: 1 7 100 72594 start sending
+Time: 72384 Packet: 779: 9 5 100 72284 finish sending: failed
+Time: 72668 Packet: 737: 7 4 100 72668 start sending
+Time: 72694 Packet: 681: 1 7 100 72594 finish sending: successfully transmitted
+Time: 72776 Packet: 789: 9 2 100 72776 start sending
+Time: 72768 Packet: 737: 7 4 100 72668 finish sending: successfully transmitted
+Time: 72921 Packet: 776: 6 3 100 72921 start sending
+Time: 72876 Packet: 789: 9 2 100 72776 finish sending: successfully transmitted
+Time: 73236 Packet: 799: 9 5 100 73236 start sending
+Time: 73021 Packet: 776: 6 3 100 72921 finish sending: successfully transmitted
+Time: 73241 Packet: 735: 5 4 100 73241 start sending
+Time: 73243 Packet: 682: 2 4 100 73243 start sending: collision
+Time: 73336 Packet: 799: 9 5 100 73236 finish sending: failed
+Time: 73343 Packet: 682: 2 4 100 73243 finish sending: failed
+Time: 73348 Packet: 753: 3 9 100 73348 start sending
+Time: 73341 Packet: 735: 5 4 100 73241 finish sending: failed
+Time: 73393 Packet: 808: 8 0 100 73393 start sending
+Time: 73448 Packet: 753: 3 9 100 73348 finish sending: successfully transmitted
+Time: 73511 Packet: 684: 4 9 100 73511 start sending
+Time: 73493 Packet: 808: 8 0 100 73393 finish sending: successfully transmitted
+Time: 73716 Packet: 747: 7 4 100 73716 start sending
+Time: 73611 Packet: 684: 4 9 100 73511 finish sending: successfully transmitted
+Time: 73777 Packet: 809: 9 7 100 73777 start sending
+Time: 73816 Packet: 747: 7 4 100 73716 finish sending: successfully transmitted
+Time: 73819 Packet: 730: 0 7 100 73819 start sending
+Time: 73877 Packet: 809: 9 7 100 73777 finish sending: successfully transmitted
+Time: 73896 Packet: 691: 1 2 100 73896 start sending
+Time: 73919 Packet: 730: 0 7 100 73819 finish sending: successfully transmitted
+Time: 73982 Packet: 692: 2 6 100 73982 start sending
+Time: 73996 Packet: 691: 1 2 100 73896 finish sending: successfully transmitted
+Time: 74062 Packet: 818: 8 4 100 74062 start sending
+Time: 74082 Packet: 692: 2 6 100 73982 finish sending: successfully transmitted
+Time: 74092 Packet: 694: 4 5 100 74092 start sending
+Time: 74112 Packet: 701: 1 9 100 74112 start sending: collision
+Time: 74117 Packet: 702: 2 5 100 74117 start sending: collision
+Time: 74162 Packet: 818: 8 4 100 74062 finish sending: failed
+Time: 74212 Packet: 701: 1 9 100 74112 finish sending: failed
+Time: 74227 Packet: 828: 8 0 100 74227 start sending
+Time: 74192 Packet: 694: 4 5 100 74092 finish sending: failed
+Time: 74327 Packet: 828: 8 0 100 74227 finish sending: successfully transmitted
+Time: 74652 Packet: 786: 6 4 100 74652 start sending
+Time: 74217 Packet: 702: 2 5 100 74117 finish sending: failed
+Time: 74733 Packet: 745: 5 7 100 74733 start sending
+Time: 74752 Packet: 786: 6 4 100 74652 finish sending: successfully transmitted
+Time: 74849 Packet: 740: 0 2 100 74849 start sending
+Time: 74833 Packet: 745: 5 7 100 74733 finish sending: successfully transmitted
+Time: 74891 Packet: 763: 3 1 100 74891 start sending
+Time: 74949 Packet: 740: 0 2 100 74849 finish sending: successfully transmitted
+Time: 74984 Packet: 704: 4 7 100 74984 start sending
+Time: 74987 Packet: 838: 8 5 100 74987 start sending: collision
+Time: 74991 Packet: 763: 3 1 100 74891 finish sending: failed
+Time: 75087 Packet: 838: 8 5 100 74987 finish sending: failed
+Time: 75181 Packet: 755: 5 4 100 75181 start sending
+Time: 75084 Packet: 704: 4 7 100 74984 finish sending: failed
+Time: 75331 Packet: 848: 8 0 100 75331 start sending
+Time: 75281 Packet: 755: 5 4 100 75181 finish sending: successfully transmitted
+Time: 75376 Packet: 757: 7 0 100 75376 start sending
+Time: 75431 Packet: 848: 8 0 100 75331 finish sending: successfully transmitted
+Time: 75507 Packet: 819: 9 7 100 75507 start sending
+Time: 75476 Packet: 757: 7 0 100 75376 finish sending: successfully transmitted
+Time: 75667 Packet: 711: 1 5 100 75667 start sending
+Time: 75607 Packet: 819: 9 7 100 75507 finish sending: successfully transmitted
+Time: 75834 Packet: 767: 7 9 100 75834 start sending
+Time: 75767 Packet: 711: 1 5 100 75667 finish sending: successfully transmitted
+Time: 75920 Packet: 712: 2 6 100 75920 start sending
+Time: 75934 Packet: 773: 3 5 100 75934 start sending: collision
+Time: 75934 Packet: 767: 7 9 100 75834 finish sending: failed
+Time: 76005 Packet: 858: 8 7 100 76005 start sending: collision
+Time: 76020 Packet: 712: 2 6 100 75920 finish sending: failed
+Time: 76105 Packet: 858: 8 7 100 76005 finish sending: failed
+Time: 76116 Packet: 750: 0 3 100 76116 start sending
+Time: 76034 Packet: 773: 3 5 100 75934 finish sending: failed
+Time: 76198 Packet: 829: 9 3 100 76198 start sending
+Time: 76216 Packet: 750: 0 3 100 76116 finish sending: successfully transmitted
+Time: 76257 Packet: 765: 5 9 100 76257 start sending
+Time: 76298 Packet: 829: 9 3 100 76198 finish sending: successfully transmitted
+Time: 76435 Packet: 796: 6 5 100 76435 start sending
+Time: 76357 Packet: 765: 5 9 100 76257 finish sending: successfully transmitted
+Time: 76601 Packet: 714: 4 2 100 76601 start sending
+Time: 76535 Packet: 796: 6 5 100 76435 finish sending: successfully transmitted
+Time: 76742 Packet: 721: 1 8 100 76742 start sending
+Time: 76701 Packet: 714: 4 2 100 76601 finish sending: successfully transmitted
+Time: 76743 Packet: 722: 2 6 100 76743 start sending
+Time: 76842 Packet: 721: 1 8 100 76742 finish sending: successfully transmitted
+Time: 76949 Packet: 839: 9 5 100 76949 start sending
+Time: 76843 Packet: 722: 2 6 100 76743 finish sending: successfully transmitted
+Time: 77028 Packet: 777: 7 6 100 77028 start sending
+Time: 77049 Packet: 839: 9 5 100 76949 finish sending: successfully transmitted
+Time: 77126 Packet: 868: 8 9 100 77126 start sending
+Time: 77128 Packet: 777: 7 6 100 77028 finish sending: successfully transmitted
+Time: 77195 Packet: 724: 4 7 100 77195 start sending
+Time: 77226 Packet: 868: 8 9 100 77126 finish sending: successfully transmitted
+Time: 77253 Packet: 760: 0 3 100 77253 start sending
+Time: 77295 Packet: 724: 4 7 100 77195 finish sending: successfully transmitted
+Time: 77658 Packet: 731: 1 3 100 77658 start sending
+Time: 77353 Packet: 760: 0 3 100 77253 finish sending: successfully transmitted
+Time: 77821 Packet: 783: 3 7 100 77821 start sending
+Time: 77758 Packet: 731: 1 3 100 77658 finish sending: successfully transmitted
+Time: 77869 Packet: 775: 5 1 100 77869 start sending
+Time: 77921 Packet: 783: 3 7 100 77821 finish sending: successfully transmitted
+Time: 77932 Packet: 732: 2 8 100 77932 start sending
+Time: 77969 Packet: 775: 5 1 100 77869 finish sending: successfully transmitted
+Time: 78036 Packet: 734: 4 1 100 78036 start sending
+Time: 78032 Packet: 732: 2 8 100 77932 finish sending: successfully transmitted
+Time: 78173 Packet: 806: 6 4 100 78173 start sending
+Time: 78136 Packet: 734: 4 1 100 78036 finish sending: successfully transmitted
+Time: 78238 Packet: 849: 9 4 100 78238 start sending
+Time: 78262 Packet: 787: 7 2 100 78262 start sending: collision
+Time: 78273 Packet: 806: 6 4 100 78173 finish sending: failed
+Time: 78315 Packet: 878: 8 5 100 78315 start sending: collision
+Time: 78338 Packet: 849: 9 4 100 78238 finish sending: failed
+Time: 78367 Packet: 741: 1 2 100 78367 start sending: collision
+Time: 78362 Packet: 787: 7 2 100 78262 finish sending: failed
+Time: 78467 Packet: 741: 1 2 100 78367 finish sending: failed
+Time: 78487 Packet: 744: 4 5 100 78487 start sending
+Time: 78415 Packet: 878: 8 5 100 78315 finish sending: failed
+Time: 78489 Packet: 770: 0 2 100 78489 start sending
+Time: 78510 Packet: 751: 1 6 100 78510 start sending: collision
+Time: 78516 Packet: 742: 2 0 100 78516 start sending: collision
+Time: 78587 Packet: 744: 4 5 100 78487 finish sending: failed
+Time: 78610 Packet: 751: 1 6 100 78510 finish sending: failed
+Time: 78646 Packet: 785: 5 1 100 78646 start sending
+Time: 78589 Packet: 770: 0 2 100 78489 finish sending: failed
+Time: 78746 Packet: 785: 5 1 100 78646 finish sending: successfully transmitted
+Time: 78793 Packet: 795: 5 0 100 78793 start sending
+Time: 78616 Packet: 742: 2 0 100 78516 finish sending: failed
+Time: 79041 Packet: 816: 6 5 100 79041 start sending
+Time: 78893 Packet: 795: 5 0 100 78793 finish sending: successfully transmitted
+Time: 79072 Packet: 797: 7 2 100 79072 start sending
+Time: 79141 Packet: 816: 6 5 100 79041 finish sending: successfully transmitted
+Time: 79186 Packet: 793: 3 7 100 79186 start sending
+Time: 79172 Packet: 797: 7 2 100 79072 finish sending: successfully transmitted
+Time: 79222 Packet: 805: 5 7 100 79222 start sending
+Time: 79281 Packet: 888: 8 4 100 79281 start sending: collision
+Time: 79286 Packet: 793: 3 7 100 79186 finish sending: failed
+Time: 79360 Packet: 761: 1 5 100 79360 start sending: collision
+Time: 79322 Packet: 805: 5 7 100 79222 finish sending: failed
+Time: 79445 Packet: 807: 7 9 100 79445 start sending: collision
+Time: 79381 Packet: 888: 8 4 100 79281 finish sending: failed
+Time: 79509 Packet: 898: 8 0 100 79509 start sending: collision
+Time: 79460 Packet: 761: 1 5 100 79360 finish sending: failed
+Time: 79572 Packet: 771: 1 3 100 79572 start sending: collision
+Time: 79545 Packet: 807: 7 9 100 79445 finish sending: failed
+Time: 79664 Packet: 754: 4 9 100 79664 start sending: collision
+Time: 79609 Packet: 898: 8 0 100 79509 finish sending: failed
+Time: 79712 Packet: 826: 6 1 100 79712 start sending: collision
+Time: 79672 Packet: 771: 1 3 100 79572 finish sending: failed
+Time: 79754 Packet: 859: 9 8 100 79754 start sending: collision
+Time: 79764 Packet: 754: 4 9 100 79664 finish sending: failed
+Time: 79854 Packet: 859: 9 8 100 79754 finish sending: failed
+Time: 79921 Packet: 781: 1 2 100 79921 start sending
+Time: 79812 Packet: 826: 6 1 100 79712 finish sending: failed
+Time: 79937 Packet: 803: 3 9 100 79937 start sending
+Time: 80021 Packet: 781: 1 2 100 79921 finish sending: successfully transmitted
+Time: 80112 Packet: 752: 2 5 100 80112 start sending
+Time: 80037 Packet: 803: 3 9 100 79937 finish sending: successfully transmitted
+Time: 80332 Packet: 780: 0 8 100 80332 start sending
+Time: 80212 Packet: 752: 2 5 100 80112 finish sending: successfully transmitted
+Time: 80373 Packet: 869: 9 2 100 80373 start sending
+Time: 80432 Packet: 780: 0 8 100 80332 finish sending: successfully transmitted
+Time: 80523 Packet: 815: 5 7 100 80523 start sending
+Time: 80473 Packet: 869: 9 2 100 80373 finish sending: successfully transmitted
+Time: 80723 Packet: 764: 4 6 100 80723 start sending
+Time: 80623 Packet: 815: 5 7 100 80523 finish sending: successfully transmitted
+Time: 80794 Packet: 908: 8 0 100 80794 start sending
+Time: 80823 Packet: 764: 4 6 100 80723 finish sending: successfully transmitted
+Time: 80873 Packet: 836: 6 8 100 80873 start sending
+Time: 80875 Packet: 762: 2 5 100 80875 start sending: collision
+Time: 80884 Packet: 817: 7 8 100 80884 start sending: collision
+Time: 80894 Packet: 908: 8 0 100 80794 finish sending: failed
+Time: 80975 Packet: 762: 2 5 100 80875 finish sending: failed
+Time: 80983 Packet: 790: 0 8 100 80983 start sending
+Time: 80973 Packet: 836: 6 8 100 80873 finish sending: failed
+Time: 80986 Packet: 827: 7 3 100 80986 start sending: collision
+Time: 80984 Packet: 817: 7 8 100 80884 finish sending: failed
+Time: 81086 Packet: 827: 7 3 100 80986 finish sending: failed
+Time: 81091 Packet: 774: 4 2 100 81091 start sending
+Time: 81083 Packet: 790: 0 8 100 80983 finish sending: failed
+Time: 81142 Packet: 825: 5 1 100 81142 start sending
+Time: 81188 Packet: 879: 9 6 100 81188 start sending: collision
+Time: 81191 Packet: 774: 4 2 100 81091 finish sending: failed
+Time: 81195 Packet: 813: 3 4 100 81195 start sending: collision
+Time: 81218 Packet: 918: 8 3 100 81218 start sending: collision
+Time: 81242 Packet: 825: 5 1 100 81142 finish sending: failed
+Time: 81295 Packet: 813: 3 4 100 81195 finish sending: failed
+Time: 81473 Packet: 846: 6 8 100 81473 start sending
+Time: 81288 Packet: 879: 9 6 100 81188 finish sending: failed
+Time: 81513 Packet: 791: 1 3 100 81513 start sending: collision
+Time: 81318 Packet: 918: 8 3 100 81218 finish sending: failed
+Time: 81613 Packet: 791: 1 3 100 81513 finish sending: failed
+Time: 81641 Packet: 800: 0 9 100 81641 start sending
+Time: 81573 Packet: 846: 6 8 100 81473 finish sending: failed
+Time: 81881 Packet: 928: 8 2 100 81881 start sending
+Time: 81741 Packet: 800: 0 9 100 81641 finish sending: successfully transmitted
+Time: 81982 Packet: 837: 7 6 100 81982 start sending
+Time: 81981 Packet: 928: 8 2 100 81881 finish sending: successfully transmitted
+Time: 82131 Packet: 823: 3 9 100 82131 start sending
+Time: 82082 Packet: 837: 7 6 100 81982 finish sending: successfully transmitted
+Time: 82138 Packet: 847: 7 3 100 82138 start sending
+Time: 82231 Packet: 823: 3 9 100 82131 finish sending: successfully transmitted
+Time: 82301 Packet: 772: 2 1 100 82301 start sending
+Time: 82238 Packet: 847: 7 3 100 82138 finish sending: successfully transmitted
+Time: 82335 Packet: 801: 1 6 100 82335 start sending
+Time: 82401 Packet: 772: 2 1 100 82301 finish sending: successfully transmitted
+Time: 82443 Packet: 784: 4 2 100 82443 start sending
+Time: 82435 Packet: 801: 1 6 100 82335 finish sending: successfully transmitted
+Time: 82494 Packet: 889: 9 1 100 82494 start sending
+Time: 82532 Packet: 938: 8 4 100 82532 start sending: collision
+Time: 82543 Packet: 784: 4 2 100 82443 finish sending: failed
+Time: 82632 Packet: 938: 8 4 100 82532 finish sending: failed
+Time: 82855 Packet: 811: 1 0 100 82855 start sending
+Time: 82594 Packet: 889: 9 1 100 82494 finish sending: failed
+Time: 82929 Packet: 794: 4 3 100 82929 start sending
+Time: 82955 Packet: 811: 1 0 100 82855 finish sending: successfully transmitted
+Time: 82990 Packet: 856: 6 7 100 82990 start sending
+Time: 82992 Packet: 835: 5 8 100 82992 start sending: collision
+Time: 83029 Packet: 794: 4 3 100 82929 finish sending: failed
+Time: 83080 Packet: 810: 0 4 100 83080 start sending: collision
+Time: 83090 Packet: 856: 6 7 100 82990 finish sending: failed
+Time: 83180 Packet: 810: 0 4 100 83080 finish sending: failed
+Time: 83189 Packet: 833: 3 1 100 83189 start sending
+Time: 83092 Packet: 835: 5 8 100 82992 finish sending: failed
+Time: 83235 Packet: 857: 7 8 100 83235 start sending
+Time: 83289 Packet: 833: 3 1 100 83189 finish sending: successfully transmitted
+Time: 83294 Packet: 899: 9 6 100 83294 start sending
+Time: 83335 Packet: 857: 7 8 100 83235 finish sending: successfully transmitted
+Time: 83556 Packet: 843: 3 6 100 83556 start sending
+Time: 83394 Packet: 899: 9 6 100 83294 finish sending: successfully transmitted
+Time: 83577 Packet: 782: 2 7 100 83577 start sending
+Time: 83634 Packet: 820: 0 8 100 83634 start sending: collision
+Time: 83656 Packet: 843: 3 6 100 83556 finish sending: failed
+Time: 83734 Packet: 820: 0 8 100 83634 finish sending: failed
+Time: 83802 Packet: 830: 0 8 100 83802 start sending
+Time: 83677 Packet: 782: 2 7 100 83577 finish sending: failed
+Time: 83837 Packet: 866: 6 9 100 83837 start sending
+Time: 83876 Packet: 804: 4 3 100 83876 start sending: collision
+Time: 83902 Packet: 830: 0 8 100 83802 finish sending: failed
+Time: 83907 Packet: 821: 1 5 100 83907 start sending: collision
+Time: 83937 Packet: 866: 6 9 100 83837 finish sending: failed
+Time: 84007 Packet: 821: 1 5 100 83907 finish sending: failed
+Time: 84259 Packet: 867: 7 3 100 84259 start sending
+Time: 83976 Packet: 804: 4 3 100 83876 finish sending: failed
+Time: 84344 Packet: 948: 8 2 100 84344 start sending
+Time: 84359 Packet: 867: 7 3 100 84259 finish sending: successfully transmitted
+Time: 84669 Packet: 853: 3 9 100 84669 start sending
+Time: 84444 Packet: 948: 8 2 100 84344 finish sending: successfully transmitted
+Time: 84797 Packet: 845: 5 0 100 84797 start sending
+Time: 84769 Packet: 853: 3 9 100 84669 finish sending: successfully transmitted
+Time: 84798 Packet: 909: 9 8 100 84798 start sending
+Time: 84897 Packet: 845: 5 0 100 84797 finish sending: successfully transmitted
+Time: 85066 Packet: 814: 4 1 100 85066 start sending
+Time: 84898 Packet: 909: 9 8 100 84798 finish sending: successfully transmitted
+Time: 85101 Packet: 863: 3 4 100 85101 start sending
+Time: 85144 Packet: 792: 2 6 100 85144 start sending: collision
+Time: 85166 Packet: 814: 4 1 100 85066 finish sending: failed
+Time: 85175 Packet: 831: 1 4 100 85175 start sending: collision
+Time: 85201 Packet: 863: 3 4 100 85101 finish sending: failed
+Time: 85275 Packet: 831: 1 4 100 85175 finish sending: failed
+Time: 85298 Packet: 919: 9 0 100 85298 start sending
+Time: 85244 Packet: 792: 2 6 100 85144 finish sending: failed
+Time: 85361 Packet: 876: 6 5 100 85361 start sending
+Time: 85398 Packet: 919: 9 0 100 85298 finish sending: successfully transmitted
+Time: 85446 Packet: 877: 7 5 100 85446 start sending
+Time: 85461 Packet: 876: 6 5 100 85361 finish sending: successfully transmitted
+Time: 85585 Packet: 958: 8 0 100 85585 start sending
+Time: 85546 Packet: 877: 7 5 100 85446 finish sending: successfully transmitted
+Time: 85611 Packet: 855: 5 6 100 85611 start sending
+Time: 85634 Packet: 840: 0 5 100 85634 start sending: collision
+Time: 85662 Packet: 802: 2 5 100 85662 start sending: collision
+Time: 85665 Packet: 886: 6 5 100 85665 start sending: collision
+Time: 85685 Packet: 958: 8 0 100 85585 finish sending: failed
+Time: 85734 Packet: 840: 0 5 100 85634 finish sending: failed
+Time: 85765 Packet: 886: 6 5 100 85665 finish sending: failed
+Time: 85790 Packet: 896: 6 9 100 85790 start sending
+Time: 85711 Packet: 855: 5 6 100 85611 finish sending: failed
+Time: 85890 Packet: 896: 6 9 100 85790 finish sending: successfully transmitted
+Time: 86042 Packet: 850: 0 8 100 86042 start sending
+Time: 85762 Packet: 802: 2 5 100 85662 finish sending: failed
+Time: 86072 Packet: 812: 2 7 100 86072 start sending
+Time: 86072 Packet: 887: 7 5 100 86072 start sending: collision
+Time: 86142 Packet: 850: 0 8 100 86042 finish sending: failed
+Time: 86172 Packet: 887: 7 5 100 86072 finish sending: failed
+Time: 86462 Packet: 968: 8 9 100 86462 start sending
+Time: 86172 Packet: 812: 2 7 100 86072 finish sending: failed
+Time: 86496 Packet: 906: 6 3 100 86496 start sending
+Time: 86499 Packet: 929: 9 3 100 86499 start sending: collision
+Time: 86511 Packet: 841: 1 7 100 86511 start sending: collision
+Time: 86512 Packet: 873: 3 0 100 86512 start sending: collision
+Time: 86562 Packet: 968: 8 9 100 86462 finish sending: failed
+Time: 86599 Packet: 929: 9 3 100 86499 finish sending: failed
+Time: 86612 Packet: 873: 3 0 100 86512 finish sending: failed
+Time: 86669 Packet: 897: 7 0 100 86669 start sending
+Time: 86596 Packet: 906: 6 3 100 86496 finish sending: failed
+Time: 86750 Packet: 824: 4 6 100 86750 start sending: collision
+Time: 86611 Packet: 841: 1 7 100 86511 finish sending: failed
+Time: 86790 Packet: 883: 3 5 100 86790 start sending: collision
+Time: 86769 Packet: 897: 7 0 100 86669 finish sending: failed
+Time: 86890 Packet: 883: 3 5 100 86790 finish sending: failed
+Time: 86953 Packet: 978: 8 3 100 86953 start sending
+Time: 86850 Packet: 824: 4 6 100 86750 finish sending: failed
+Time: 87036 Packet: 865: 5 9 100 87036 start sending
+Time: 87040 Packet: 851: 1 4 100 87040 start sending: collision
+Time: 87053 Packet: 978: 8 3 100 86953 finish sending: failed
+Time: 87140 Packet: 851: 1 4 100 87040 finish sending: failed
+Time: 87328 Packet: 907: 7 0 100 87328 start sending
+Time: 87136 Packet: 865: 5 9 100 87036 finish sending: failed
+Time: 87368 Packet: 893: 3 1 100 87368 start sending
+Time: 87428 Packet: 907: 7 0 100 87328 finish sending: successfully transmitted
+Time: 87588 Packet: 916: 6 5 100 87588 start sending
+Time: 87468 Packet: 893: 3 1 100 87368 finish sending: successfully transmitted
+Time: 87732 Packet: 822: 2 3 100 87732 start sending
+Time: 87688 Packet: 916: 6 5 100 87588 finish sending: successfully transmitted
+Time: 87813 Packet: 834: 4 0 100 87813 start sending
+Time: 87832 Packet: 822: 2 3 100 87732 finish sending: successfully transmitted
+Time: 87879 Packet: 939: 9 2 100 87879 start sending
+Time: 87895 Packet: 860: 0 7 100 87895 start sending: collision
+Time: 87913 Packet: 834: 4 0 100 87813 finish sending: failed
+Time: 87939 Packet: 903: 3 6 100 87939 start sending: collision
+Time: 87979 Packet: 939: 9 2 100 87879 finish sending: failed
+Time: 88002 Packet: 861: 1 2 100 88002 start sending: collision
+Time: 87995 Packet: 860: 0 7 100 87895 finish sending: failed
+Time: 88102 Packet: 861: 1 2 100 88002 finish sending: failed
+Time: 88104 Packet: 875: 5 3 100 88104 start sending
+Time: 88039 Packet: 903: 3 6 100 87939 finish sending: failed
+Time: 88213 Packet: 885: 5 8 100 88213 start sending
+Time: 88204 Packet: 875: 5 3 100 88104 finish sending: successfully transmitted
+Time: 88231 Packet: 988: 8 5 100 88231 start sending
+Time: 88232 Packet: 832: 2 9 100 88232 start sending: collision
+Time: 88313 Packet: 917: 7 5 100 88313 start sending: collision
+Time: 88313 Packet: 885: 5 8 100 88213 finish sending: failed
+Time: 88332 Packet: 832: 2 9 100 88232 finish sending: failed
+Time: 88500 Packet: 844: 4 6 100 88500 start sending
+Time: 88331 Packet: 988: 8 5 100 88231 finish sending: failed
+Time: 88561 Packet: 926: 6 8 100 88561 start sending: collision
+Time: 88413 Packet: 917: 7 5 100 88313 finish sending: failed
+Time: 88661 Packet: 926: 6 8 100 88561 finish sending: failed
+Time: 88760 Packet: 949: 9 8 100 88760 start sending
+Time: 88600 Packet: 844: 4 6 100 88500 finish sending: failed
+Time: 88844 Packet: 871: 1 5 100 88844 start sending
+Time: 88860 Packet: 949: 9 8 100 88760 finish sending: successfully transmitted
+Time: 88911 Packet: 870: 0 3 100 88911 start sending
+Time: 88944 Packet: 871: 1 5 100 88844 finish sending: successfully transmitted
+Time: 88987 Packet: 913: 3 0 100 88987 start sending
+Time: 89011 Packet: 870: 0 3 100 88911 finish sending: successfully transmitted
+Time: 89027 Packet: 959: 9 4 100 89027 start sending
+Time: 89087 Packet: 913: 3 0 100 88987 finish sending: successfully transmitted
+Time: 89218 Packet: 923: 3 8 100 89218 start sending
+Time: 89127 Packet: 959: 9 4 100 89027 finish sending: successfully transmitted
+Time: 89368 Packet: 998: 8 6 100 89368 start sending
+Time: 89318 Packet: 923: 3 8 100 89218 finish sending: successfully transmitted
+Time: 89402 Packet: 969: 9 5 100 89402 start sending
+Time: 89464 Packet: 936: 6 5 100 89464 start sending: collision
+Time: 89468 Packet: 998: 8 6 100 89368 finish sending: failed
+Time: 89564 Packet: 936: 6 5 100 89464 finish sending: failed
+Time: 89604 Packet: 842: 2 8 100 89604 start sending
+Time: 89502 Packet: 969: 9 5 100 89402 finish sending: failed
+Time: 89635 Packet: 880: 0 2 100 89635 start sending
+Time: 89704 Packet: 842: 2 8 100 89604 finish sending: successfully transmitted
+Time: 89758 Packet: 852: 2 8 100 89758 start sending
+Time: 89735 Packet: 880: 0 2 100 89635 finish sending: successfully transmitted
+Time: 89761 Packet: 854: 4 8 100 89761 start sending
+Time: 89858 Packet: 852: 2 8 100 89758 finish sending: successfully transmitted
+Time: 89980 Packet: 927: 7 9 100 89980 start sending
+Time: 89861 Packet: 854: 4 8 100 89761 finish sending: successfully transmitted
+Time: 90081 Packet: 895: 5 9 100 90081 start sending
+Time: 90080 Packet: 927: 7 9 100 89980 finish sending: successfully transmitted
+Time: 90476 Packet: 933: 3 1 100 90476 start sending
+Time: 90181 Packet: 895: 5 9 100 90081 finish sending: successfully transmitted
+Time: 90556 Packet: 937: 7 3 100 90556 start sending
+Time: 90576 Packet: 933: 3 1 100 90476 finish sending: successfully transmitted
+Time: 90577 Packet: 881: 1 9 100 90577 start sending
+Time: 90656 Packet: 937: 7 3 100 90556 finish sending: successfully transmitted
+Time: 90821 Packet: 979: 9 7 100 90821 start sending
+Time: 90677 Packet: 881: 1 9 100 90577 finish sending: successfully transmitted
+Time: 90949 Packet: 890: 0 4 100 90949 start sending
+Time: 90921 Packet: 979: 9 7 100 90821 finish sending: successfully transmitted
+Time: 90979 Packet: 862: 2 3 100 90979 start sending
+Time: 91023 Packet: 946: 6 0 100 91023 start sending: collision
+Time: 91049 Packet: 890: 0 4 100 90949 finish sending: failed
+Time: 91071 Packet: 947: 7 1 100 91071 start sending: collision
+Time: 91079 Packet: 862: 2 3 100 90979 finish sending: failed
+Time: 91171 Packet: 947: 7 1 100 91071 finish sending: failed
+Time: 91172 Packet: 891: 1 6 100 91172 start sending
+Time: 91123 Packet: 946: 6 0 100 91023 finish sending: failed
+Time: 91180 Packet: 989: 9 4 100 91180 start sending
+Time: 91272 Packet: 891: 1 6 100 91172 finish sending: successfully transmitted
+Time: 91358 Packet: 901: 1 0 100 91358 start sending
+Time: 91280 Packet: 989: 9 4 100 91180 finish sending: successfully transmitted
+Time: 91373 Packet: 905: 5 3 100 91373 start sending
+Time: 91398 Packet: 900: 0 1 100 91398 start sending: collision
+Time: 91412 Packet: 956: 6 3 100 91412 start sending: collision
+Time: 91458 Packet: 901: 1 0 100 91358 finish sending: failed
+Time: 91466 Packet: 864: 4 3 100 91466 start sending: collision
+Time: 91473 Packet: 905: 5 3 100 91373 finish sending: failed
+Time: 91512 Packet: 956: 6 3 100 91412 finish sending: failed
+Time: 91856 Packet: 872: 2 7 100 91856 start sending
+Time: 91498 Packet: 900: 0 1 100 91398 finish sending: failed
+Time: 91897 Packet: 966: 6 8 100 91897 start sending: collision
+Time: 91566 Packet: 864: 4 3 100 91466 finish sending: failed
+Time: 91903 Packet: 915: 5 7 100 91903 start sending: collision
+Time: 91956 Packet: 872: 2 7 100 91856 finish sending: failed
+Time: 92003 Packet: 915: 5 7 100 91903 finish sending: failed
+Time: 92098 Packet: 957: 7 5 100 92098 start sending
+Time: 91997 Packet: 966: 6 8 100 91897 finish sending: failed
+Time: 92128 Packet: 943: 3 0 100 92128 start sending
+Time: 92198 Packet: 957: 7 5 100 92098 finish sending: successfully transmitted
+Time: 92256 Packet: 999: 9 6 100 92256 start sending
+Time: 92228 Packet: 943: 3 0 100 92128 finish sending: successfully transmitted
+Time: 92263 Packet: 976: 6 1 100 92263 start sending
+Time: 92356 Packet: 999: 9 6 100 92256 finish sending: successfully transmitted
+Time: 92379 Packet: 911: 1 8 100 92379 start sending
+Time: 92363 Packet: 976: 6 1 100 92263 finish sending: successfully transmitted
+Time: 92431 Packet: 967: 7 9 100 92431 start sending
+Time: 92455 Packet: 874: 4 3 100 92455 start sending: collision
+Time: 92479 Packet: 911: 1 8 100 92379 finish sending: failed
+Time: 92555 Packet: 874: 4 3 100 92455 finish sending: failed
+Time: 92697 Packet: 910: 0 2 100 92697 start sending
+Time: 92531 Packet: 967: 7 9 100 92431 finish sending: failed
+Time: 92766 Packet: 921: 1 7 100 92766 start sending
+Time: 92785 Packet: 884: 4 1 100 92785 start sending: collision
+Time: 92797 Packet: 910: 0 2 100 92697 finish sending: failed
+Time: 92885 Packet: 884: 4 1 100 92785 finish sending: failed
+Time: 92890 Packet: 953: 3 8 100 92890 start sending
+Time: 92866 Packet: 921: 1 7 100 92766 finish sending: failed
+Time: 92934 Packet: 986: 6 5 100 92934 start sending
+Time: 92990 Packet: 953: 3 8 100 92890 finish sending: successfully transmitted
+Time: 93346 Packet: 894: 4 0 100 93346 start sending
+Time: 93034 Packet: 986: 6 5 100 92934 finish sending: successfully transmitted
+Time: 93370 Packet: 882: 2 1 100 93370 start sending
+Time: 93446 Packet: 894: 4 0 100 93346 finish sending: successfully transmitted
+Time: 93687 Packet: 925: 5 9 100 93687 start sending
+Time: 93470 Packet: 882: 2 1 100 93370 finish sending: successfully transmitted
+Time: 93697 Packet: 920: 0 3 100 93697 start sending
+Time: 93787 Packet: 925: 5 9 100 93687 finish sending: successfully transmitted
+Time: 94103 Packet: 935: 5 4 100 94103 start sending
+Time: 93797 Packet: 920: 0 3 100 93697 finish sending: successfully transmitted
+Time: 94269 Packet: 963: 3 2 100 94269 start sending
+Time: 94203 Packet: 935: 5 4 100 94103 finish sending: successfully transmitted
+Time: 94293 Packet: 977: 7 0 100 94293 start sending
+Time: 94369 Packet: 963: 3 2 100 94269 finish sending: successfully transmitted
+Time: 94398 Packet: 987: 7 0 100 94398 start sending
+Time: 94393 Packet: 977: 7 0 100 94293 finish sending: successfully transmitted
+Time: 94416 Packet: 904: 4 7 100 94416 start sending
+Time: 94456 Packet: 931: 1 3 100 94456 start sending: collision
+Time: 94498 Packet: 987: 7 0 100 94398 finish sending: failed
+Time: 94513 Packet: 996: 6 9 100 94513 start sending: collision
+Time: 94516 Packet: 904: 4 7 100 94416 finish sending: failed
+Time: 94597 Packet: 892: 2 1 100 94597 start sending: collision
+Time: 94556 Packet: 931: 1 3 100 94456 finish sending: failed
+Time: 94697 Packet: 892: 2 1 100 94597 finish sending: failed
+Time: 95366 Packet: 930: 0 8 100 95366 start sending
+Time: 94613 Packet: 996: 6 9 100 94513 finish sending: failed
+Time: 95498 Packet: 940: 0 2 100 95498 start sending
+Time: 95466 Packet: 930: 0 8 100 95366 finish sending: successfully transmitted
+Time: 95530 Packet: 914: 4 6 100 95530 start sending
+Time: 95598 Packet: 940: 0 2 100 95498 finish sending: successfully transmitted
+Time: 95633 Packet: 945: 5 9 100 95633 start sending
+Time: 95630 Packet: 914: 4 6 100 95530 finish sending: successfully transmitted
+Time: 95803 Packet: 941: 1 8 100 95803 start sending
+Time: 95733 Packet: 945: 5 9 100 95633 finish sending: successfully transmitted
+Time: 95815 Packet: 997: 7 8 100 95815 start sending
+Time: 95903 Packet: 941: 1 8 100 95803 finish sending: successfully transmitted
+Time: 95974 Packet: 973: 3 5 100 95974 start sending
+Time: 95915 Packet: 997: 7 8 100 95815 finish sending: successfully transmitted
+Time: 96037 Packet: 924: 4 1 100 96037 start sending
+Time: 96074 Packet: 973: 3 5 100 95974 finish sending: successfully transmitted
+Time: 96188 Packet: 950: 0 9 100 96188 start sending
+Time: 96137 Packet: 924: 4 1 100 96037 finish sending: successfully transmitted
+Time: 96449 Packet: 902: 2 4 100 96449 start sending
+Time: 96288 Packet: 950: 0 9 100 96188 finish sending: successfully transmitted
+Time: 96572 Packet: 951: 1 7 100 96572 start sending
+Time: 96549 Packet: 902: 2 4 100 96449 finish sending: successfully transmitted
+Time: 97038 Packet: 955: 5 7 100 97038 start sending
+Time: 96672 Packet: 951: 1 7 100 96572 finish sending: successfully transmitted
+Time: 97159 Packet: 934: 4 8 100 97159 start sending
+Time: 97138 Packet: 955: 5 7 100 97038 finish sending: successfully transmitted
+Time: 97632 Packet: 983: 3 8 100 97632 start sending
+Time: 97259 Packet: 934: 4 8 100 97159 finish sending: successfully transmitted
+Time: 97697 Packet: 960: 0 3 100 97697 start sending
+Time: 97732 Packet: 983: 3 8 100 97632 finish sending: successfully transmitted
+Time: 97998 Packet: 961: 1 5 100 97998 start sending
+Time: 97797 Packet: 960: 0 3 100 97697 finish sending: successfully transmitted
+Time: 98019 Packet: 944: 4 0 100 98019 start sending
+Time: 98098 Packet: 961: 1 5 100 97998 finish sending: successfully transmitted
+Time: 98155 Packet: 954: 4 3 100 98155 start sending
+Time: 98119 Packet: 944: 4 0 100 98019 finish sending: successfully transmitted
+Time: 98180 Packet: 970: 0 6 100 98180 start sending
+Time: 98193 Packet: 912: 2 7 100 98193 start sending: collision
+Time: 98255 Packet: 954: 4 3 100 98155 finish sending: failed
+Time: 98293 Packet: 912: 2 7 100 98193 finish sending: failed
+Time: 98381 Packet: 965: 5 6 100 98381 start sending
+Time: 98280 Packet: 970: 0 6 100 98180 finish sending: failed
+Time: 98498 Packet: 993: 3 6 100 98498 start sending
+Time: 98481 Packet: 965: 5 6 100 98381 finish sending: successfully transmitted
+Time: 99363 Packet: 964: 4 0 100 99363 start sending
+Time: 98598 Packet: 993: 3 6 100 98498 finish sending: successfully transmitted
+Time: 99384 Packet: 922: 2 5 100 99384 start sending
+Time: 99447 Packet: 975: 5 2 100 99447 start sending: collision
+Time: 99463 Packet: 964: 4 0 100 99363 finish sending: failed
+Time: 99547 Packet: 975: 5 2 100 99447 finish sending: failed
+Time: 99640 Packet: 971: 1 8 100 99640 start sending
+Time: 99484 Packet: 922: 2 5 100 99384 finish sending: failed
+Time: 99733 Packet: 932: 2 1 100 99733 start sending
+Time: 99740 Packet: 971: 1 8 100 99640 finish sending: successfully transmitted
+Time: 99788 Packet: 980: 0 9 100 99788 start sending
+Time: 99833 Packet: 932: 2 1 100 99733 finish sending: successfully transmitted
+Time: 99867 Packet: 974: 4 6 100 99867 start sending
+Time: 99888 Packet: 980: 0 9 100 99788 finish sending: successfully transmitted
+Time: 100507 Packet: 990: 0 8 100 100507 start sending
+Time: 99967 Packet: 974: 4 6 100 99867 finish sending: successfully transmitted
+Time: 100950 Packet: 985: 5 1 100 100950 start sending
+Time: 100607 Packet: 990: 0 8 100 100507 finish sending: successfully transmitted
+Time: 101122 Packet: 942: 2 3 100 101122 start sending
+Time: 101050 Packet: 985: 5 1 100 100950 finish sending: successfully transmitted
+Time: 101469 Packet: 981: 1 5 100 101469 start sending
+Time: 101222 Packet: 942: 2 3 100 101122 finish sending: successfully transmitted
+Time: 101740 Packet: 984: 4 3 100 101740 start sending
+Time: 101569 Packet: 981: 1 5 100 101469 finish sending: successfully transmitted
+Time: 101886 Packet: 991: 1 2 100 101886 start sending
+Time: 101840 Packet: 984: 4 3 100 101740 finish sending: successfully transmitted
+Time: 102209 Packet: 995: 5 3 100 102209 start sending
+Time: 101986 Packet: 991: 1 2 100 101886 finish sending: successfully transmitted
+Time: 102575 Packet: 952: 2 7 100 102575 start sending
+Time: 102309 Packet: 995: 5 3 100 102209 finish sending: successfully transmitted
+Time: 102922 Packet: 994: 4 5 100 102922 start sending
+Time: 102675 Packet: 952: 2 7 100 102575 finish sending: successfully transmitted
+Time: 103968 Packet: 962: 2 3 100 103968 start sending
+Time: 103022 Packet: 994: 4 5 100 102922 finish sending: successfully transmitted
+Time: 104259 Packet: 972: 2 3 100 104259 start sending
+Time: 104068 Packet: 962: 2 3 100 103968 finish sending: successfully transmitted
+Time: 105245 Packet: 982: 2 0 100 105245 start sending
+Time: 104359 Packet: 972: 2 3 100 104259 finish sending: successfully transmitted
+Time: 105681 Packet: 992: 2 0 100 105681 start sending
+STUFF LEFT IN QUE
+[['982', '2', '0', '100', '105245', ''], ['992', '2', '0', '100', '105681', '']]

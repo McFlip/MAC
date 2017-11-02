@@ -49,14 +49,14 @@ with open(trafficfile, 'r') as tf:
     if len(packet) > 1:
       packet.append("")
       if packet_queu:
-        time = packet[4]
+        time = int(packet[4])
         for p in packet_queu:
-          if p[4] + p[3] < time:
+          if int(p[4]) + int(p[3]) < time:
             if p[5] == ": collision":
               finish = "finish sending: failed"
             else:
               finish = "finish sending: successfully transmitted"
-            print "Time: {} Packet: {}: {} {} {} {} {}".format(packet[4] + packet[3], packet[0], packet[1], packet[2], packet[3], packet[4], finish)
+            print "Time: {} Packet: {}: {} {} {} {} {}".format(int(p[4]) + int(p[3]), p[0], p[1], p[2], p[3], p[4], finish)
             packet_queu.remove(p)
           else:
             p[5] = ": collision"
