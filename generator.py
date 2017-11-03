@@ -74,6 +74,6 @@ for i in range(num_node):
 # finish
 packet_table.sort(key=lambda x: int(x[4]))
 with open(outfile, 'w') as of:
-  of.write("{}\n".format(tot_packets))
+  of.write("{} {}\n".format(tot_packets,offered_load))
   for row in packet_table:
     of.write("{} {} {} {} {}\n".format(row[0], row[1], row[2], row[3], row[4]))

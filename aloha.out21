@@ -1,0 +1,21 @@
+Time: 107 Packet: 9: 9 7 100 107 start sending
+Time: 150 Packet: 2: 2 6 100 150 start sending: collision
+Time: 168 Packet: 7: 7 3 100 168 start sending: collision
+Time: 207 Packet: 9: 9 7 100 107 finish sending: failed
+Time: 225 Packet: 5: 5 2 100 225 start sending: collision
+Time: 250 Packet: 2: 2 6 100 150 finish sending: failed
+Time: 268 Packet: 7: 7 3 100 168 finish sending: failed
+Time: 325 Packet: 5: 5 2 100 225 finish sending: failed
+Time: 384 Packet: 3: 3 7 100 384 start sending
+Time: 404 Packet: 4: 4 5 100 404 start sending: collision
+Time: 440 Packet: 0: 0 6 100 440 start sending: collision
+Time: 484 Packet: 3: 3 7 100 384 finish sending: failed
+Time: 504 Packet: 4: 4 5 100 404 finish sending: failed
+Time: 529 Packet: 6: 6 8 100 529 start sending: collision
+Time: 540 Packet: 0: 0 6 100 440 finish sending: failed
+Time: 612 Packet: 8: 8 3 100 612 start sending: collision
+Time: 629 Packet: 6: 6 8 100 529 finish sending: failed
+Time: 647 Packet: 1: 1 3 100 647 start sending: collision
+Time: 712 Packet: 8: 8 3 100 612 finish sending: failed
+Time: 747 Packet: 1: 1 3 100 647 finish sending: failed
+Packet Size: 100  NumSuccess: 0  TimeLastPacketFinished: 747 

@@ -1,0 +1,21 @@
+Time: 301 Packet: 2: 2 4 100 301 start sending
+Time: 401 Packet: 2: 2 4 100 301 finish sending: successfully transmitted
+Time: 998 Packet: 0: 0 5 100 998 start sending
+Time: 999 Packet: 7: 7 8 100 999 start sending: collision
+Time: 1036 Packet: 9: 9 7 100 1036 start sending: collision
+Time: 1098 Packet: 0: 0 5 100 998 finish sending: failed
+Time: 1099 Packet: 7: 7 8 100 999 finish sending: failed
+Time: 1136 Packet: 9: 9 7 100 1036 finish sending: failed
+Time: 1830 Packet: 1: 1 0 100 1830 start sending
+Time: 1930 Packet: 1: 1 0 100 1830 finish sending: successfully transmitted
+Time: 2735 Packet: 8: 8 0 100 2735 start sending
+Time: 2835 Packet: 8: 8 0 100 2735 finish sending: successfully transmitted
+Time: 3102 Packet: 5: 5 3 100 3102 start sending
+Time: 3202 Packet: 5: 5 3 100 3102 finish sending: successfully transmitted
+Time: 3313 Packet: 4: 4 5 100 3313 start sending
+Time: 3413 Packet: 4: 4 5 100 3313 finish sending: successfully transmitted
+Time: 3548 Packet: 3: 3 2 100 3548 start sending
+Time: 3635 Packet: 6: 6 8 100 3635 start sending: collision
+Time: 3648 Packet: 3: 3 2 100 3548 finish sending: failed
+Time: 3735 Packet: 6: 6 8 100 3635 finish sending: failed
+Packet Size: 100  NumSuccess: 5  TimeLastPacketFinished: 3735 
