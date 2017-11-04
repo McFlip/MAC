@@ -9,17 +9,14 @@ from collections import deque
 
 # Function definitions
 def processQue(packet_queu, time, numSuccess):
-  while(packet_queu):
-    if int(packet_queu[0][4]) + int(packet_queu[0][3]) < time or time == -1:
-      if packet_queu[0][5] == ": collision":
-        finish = "finish sending: failed"
-      else:
-        finish = "finish sending: successfully transmitted"
-        numSuccess = numSuccess + 1
-      of.write("Time: {} Packet: {}: {} {} {} {} {}\n".format(int(packet_queu[0][4]) + int(packet_queu[0][3]), packet_queu[0][0], packet_queu[0][1], packet_queu[0][2], packet_queu[0][3], packet_queu[0][4], finish))
-      packet_queu.popleft()
+  while(packet_queu and (int(packet_queu[0][4]) + int(packet_queu[0][3]) < time or time == -1)):
+    if packet_queu[0][5] == ": collision":
+      finish = "finish sending: failed"
     else:
-      break
+      finish = "finish sending: successfully transmitted"
+      numSuccess = numSuccess + 1
+    of.write("Time: {} Packet: {}: {} {} {} {} {}\n".format(int(packet_queu[0][4]) + int(packet_queu[0][3]), packet_queu[0][0], packet_queu[0][1], packet_queu[0][2], packet_queu[0][3], packet_queu[0][4], finish))
+    packet_queu.popleft()
   return numSuccess
 
 
