@@ -45,6 +45,7 @@ if not os.access(outDir, os.W_OK):
 # MAIN FUNCTION
 
 # Vars
+outPath = outDir + "/" + outfile
 global num_node
 num_node = int(args.num_node)
 pkt_size = int(args.pkt_size)
@@ -73,7 +74,7 @@ for i in range(num_node):
 
 # finish
 packet_table.sort(key=lambda x: int(x[4]))
-with open(outfile, 'w') as of:
-  of.write("{}\n".format(tot_packets))
+with open(outPath, 'w') as of:
+  of.write("{} {}\n".format(tot_packets,offered_load))
   for row in packet_table:
     of.write("{} {} {} {} {}\n".format(row[0], row[1], row[2], row[3], row[4]))
