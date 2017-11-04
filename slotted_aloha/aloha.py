@@ -9,7 +9,7 @@ from collections import deque
 
 # Function definitions
 def processQue(packet_queu, time, numSuccess):
-  while(packet_queu and (int(packet_queu[0][4]) + int(packet_queu[0][3]) < time or time == -1)):
+  while(packet_queu and (int(packet_queu[0][4]) + int(packet_queu[0][3]) <= time or time == -1)):
     if packet_queu[0][5] == ": collision":
       finish = "finish sending: failed"
     else:
@@ -60,10 +60,20 @@ with open(outPath, 'w') as of:
     stats = stats.split()
     numPackets = int(stats[0])
     offerdLoad = float(stats[1])
+    # get packet size
+    pos = tf.tell()
+    line = tf.readline()
+    packet = line.split()
+    packetSize = int(packet[3])
+    tf.seek(pos)
 
     for line in tf:
       packet = line.split()
       time = int(packet[4])
+      # *** change for slotted ***
+      time = time + (packetSize - (time % packetSize))
+      packet[4] = time
+      # *** change for slotted ***
       packet.append("")
 
       #print finished packets
