@@ -6,6 +6,7 @@ from __future__ import division
 import argparse
 import os
 from collections import deque
+from copy import deepcopy
 
 # Function definitions
 def processQue(packet_queu, time, numSuccess):
@@ -50,6 +51,7 @@ if not os.access(outDir, os.W_OK):
 
 # Vars
 packet_queu = deque()
+waiting_queu = deque()
 numSuccess = 0
 outPath = outDir + "/" + outfile
 
@@ -70,29 +72,36 @@ with open(outPath, 'w') as of:
     for line in tf:
       packet = line.split()
       time = int(packet[4])
-      # *** change for slotted ***
-      time = time + (packetSize - (time % packetSize))
-      packet[4] = time
-      # *** change for slotted ***
       packet.append("")
 
       #print finished packets
       numSuccess = processQue(packet_queu, time, numSuccess)
 
-      #check for collisions
+      # ***** Changed for csma
+      # copy waiting queu to sending queu
+      if not packet_queu:
+        packet_queu = deepcopy(waiting_queu)
+        waiting_queu.clear()
+        if len(packet_queu) > 1:
+          for p in packet_queu:
+            #print packet sending message
+            of.write("Time: {} Packet: {}: {} {} {} {} start sending{}\n".format(p[4], p[0], p[1], p[2], p[3], p[4], p[5]))
+            p[5] = ": collision"
+        elif len(packet_queu) == 1:
+          for p in packet_queu:
+            #print packet sending message
+            of.write("Time: {} Packet: {}: {} {} {} {} start sending{}\n".format(p[4], p[0], p[1], p[2], p[3], p[4], p[5]))
+
+      # processing current packet
       if packet_queu:
-        packet[5] = ": collision"
-        if len(packet_queu) == 1:
-          packet_queu[0][5] = ": collision"
-
-      #print packet sending message
-      of.write("Time: {} Packet: {}: {} {} {} {} start sending{}\n".format(packet[4], packet[0], packet[1], packet[2], packet[3], packet[4], packet[5]))
-
-      packet_queu.append(packet)
+        packet[4] = int(packet_queu[0][4]) + packetSize
+        waiting_queu.append(packet)
+      else:
+        packet_queu.append(packet)
+      # ***** end changed for csma
 
     #finish off the queu
     timeLastPacketFinished = int(packet_queu[-1][4]) + packetSize
-    #if packet_queu:
     numSuccess = processQue(packet_queu, -1, numSuccess)
 
     of.write("Packet Size: {}  NumSuccess: {}  TimeLastPacketFinished: {} \n".format(packetSize, numSuccess, timeLastPacketFinished))
